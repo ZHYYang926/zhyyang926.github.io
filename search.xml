@@ -1,6 +1,84 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>使用hexo+GitHub搭建个人博客</title>
+    <url>/2023/05/26/%E4%BD%BF%E7%94%A8hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<h1 id="环境搭建"><a href="#环境搭建" class="headerlink" title="环境搭建"></a>环境搭建</h1><h2 id="1-安装Node-js"><a href="#1-安装Node-js" class="headerlink" title="1.安装Node.js"></a>1.安装Node.js</h2><p><em>这个最容易出现问题，而且出错了非常难搞，尽量避免踩坑</em></p>
+<p>建议直接跟视频或教程走，下面给出推荐：</p>
+<p><a href="https://blog.csdn.net/qq_42006801/article/details/124830995">Node.js安装与配置（详细步骤）_nodejs安装及环境配置_liyitongxue的博客-CSDN博客</a></p>
+<p>【Node.js安装及环境变量配置】<a href="https://www.bilibili.com/video/BV19F411t7zX?vd_source=ae8b0afb70b0888f747c6c427dee5317">https://www.bilibili.com/video/BV19F411t7zX?vd_source=ae8b0afb70b0888f747c6c427dee5317</a></p>
+<p>友情提示：</p>
+<p>1.对于不是第一次安装node.js的朋友一定要看自己的npm 版本与node版本是否对应，尽量选择15版本以上的。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230526225434376.png" alt="image-20230526225434376"></p>
+<p>2.配置好环境变量后可以测试下面代码，如果成功其余的错误也可以忽略，我们只用npm也可以安装hexo，其中cnpm随缘安装。</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install express -g</span><br></pre></td></tr></table></figure>
+
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230526225954481.png" alt="image-20230526225954481"></p>
+<h2 id="2-安装hexo"><a href="#2-安装hexo" class="headerlink" title="2.安装hexo"></a>2.安装hexo</h2><p>以管理员身份进入终端，以win11为例</p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230526230331907.png" alt="image-20230526230331907"></p>
+<p>执行下面命令</p>
+<figure class="highlight powershell"><table><tr><td class="code"><pre><span class="line">npm install hexo<span class="literal">-cli</span> <span class="literal">-g</span> <span class="comment">#安装hexo</span></span><br><span class="line"></span><br><span class="line">npm install hexo<span class="literal">-deployer-git</span> <span class="literal">--save</span> <span class="comment">#安装部署插件</span></span><br><span class="line"></span><br><span class="line">hexo init myblog <span class="comment">#其中myblog可以替换为自己喜欢的名字</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">cd</span> myblog <span class="comment">#切换到博客根目录</span></span><br><span class="line"></span><br><span class="line">npm install <span class="comment">#安装环境</span></span><br><span class="line"></span><br><span class="line">hexo server <span class="comment">#本地启动</span></span><br></pre></td></tr></table></figure>
+
+<p>浏览器中访问地址 “localhost:4000&#x2F;”，可以预览我们的博客。</p>
+<p><img src="https://tse3-mm.cn.bing.net/th/id/OIP-C.Awb9D93bM8H28DtIEzbQzQHaEK?pid=ImgDet&rs=1"></p>
+<p>新建博客：</p>
+<figure class="highlight powershell"><table><tr><td class="code"><pre><span class="line">hexo n <span class="string">&quot;第一篇博客&quot;</span> <span class="comment"># 新建一个名为第一篇博客.md的文件</span></span><br></pre></td></tr></table></figure>
+
+<p>关于博客文件目录，我们目前只需要知道以下几个重要的文件目录即可：</p>
+<p><code>public</code>目录下存放的是我们生成的<strong>「静态页面」</strong>；</p>
+<p><code>source/_posts</code>目录下存放的是我们写的<strong>「文章」</strong>；</p>
+<p><code>themes</code>目录下存放的是<strong>「博客」</strong>的主题；</p>
+<p><code>_config.yml</code>是<strong>「博客全局配置」</strong>文件；</p>
+<p><code>_config.landscape.yml</code>是<strong>「博客主题配置」</strong>文件。</p>
+<h1 id="部署到GitHub上"><a href="#部署到GitHub上" class="headerlink" title="部署到GitHub上"></a>部署到GitHub上</h1><h2 id="1-安装Git"><a href="#1-安装Git" class="headerlink" title="1.安装Git"></a>1.安装Git</h2><p>注册git账号：<a href="https://github.com/%E5%B9%B6%E8%AE%B0%E4%BD%8F%E7%94%A8%E6%88%B7%E5%90%8D%E5%92%8C%E5%AF%86%E7%A0%81">https://github.com/并记住用户名和密码</a></p>
+<p>下载地址：<a href="https://git-scm.com/downloads">Git - Downloads (git-scm.com)</a>鼠标右键显示Git Bash Here就表示安装Git成功了。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230519100001099.png" alt="image-20230519100001099"></p>
+<h2 id="2-配置Git"><a href="#2-配置Git" class="headerlink" title="2.配置Git"></a>2.配置Git</h2><figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">git config --global user.name &quot;Your Name&quot;</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">git config --global user.email &quot;邮箱&quot;</span><br></pre></td></tr></table></figure>
+
+<p>是否已经登录</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">git config user.name</span><br></pre></td></tr></table></figure>
+
+<p>生成密钥</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">ssh-keygen -t rsa -C &quot;邮箱&quot;</span><br></pre></td></tr></table></figure>
+
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230519101945342.png" alt="image-20230519101945342"></p>
+<p><em>将其中Your Name替换为用户名,邮箱替换为自己注册时的邮箱</em></p>
+<p>如图所示，密钥已经给我们生成到<strong>C:&#x2F;Users&#x2F;UserName&#x2F;.shh&#x2F;id_rsa</strong>文件下了。</p>
+<p>打开该目录下的<strong>id_rsa.pub</strong>文件，用记事本打开并复制这个密钥。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230519102405079.png" alt="image-20230519102405079"></p>
+<p>去GitHub上验证</p>
+<p>登录github -&gt;进入设置-&gt;SSH and GPG key -&gt;新建密钥，把上面文件里的内容全部复制粘贴进去即可。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230519102810743.png" alt="image-20230519102810743"></p>
+<p><img src="C:\Users\张阳阳\AppData\Roaming\Typora\typora-user-images\image-20230519103144116.png" alt="image-20230519103144116"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230519103248279.png" alt="image-20230519103248279"></p>
+<p>在Git Bash里输入<code>ssh -T git@github.com</code> ，成功的话会出现<br>You’ve successfully authenticated, but GitHub does not provide shell access.。</p>
+<h2 id="3-新建仓库"><a href="#3-新建仓库" class="headerlink" title="3.新建仓库"></a>3.新建仓库</h2><p>在github上新建一个仓库</p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230519145847289.png" alt="image-20230519145847289"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230519150254713.png" alt="image-20230519150254713"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230519152023033.png" alt="image-20230519152023033"></p>
+<h2 id="4-部署到Git"><a href="#4-部署到Git" class="headerlink" title="4.部署到Git"></a>4.部署到Git</h2><figure class="highlight powershell"><table><tr><td class="code"><pre><span class="line">hexo <span class="literal">-c</span> <span class="comment">#清理缓存</span></span><br><span class="line">hexo clean</span><br><span class="line">hexo g <span class="comment"># 生成静态网页</span></span><br><span class="line">hexo d <span class="comment">#部署到Git</span></span><br></pre></td></tr></table></figure>
+
+<p>浏览器输入”https:&#x2F;&#x2F;仓库名”即可。</p>
+<h1 id="推荐视频教程"><a href="#推荐视频教程" class="headerlink" title="推荐视频教程"></a>推荐视频教程</h1><p>mac版：</p>
+<p>【手把手教你从0开始搭建自己的个人博客 |无坑版视频教程| hexo】<a href="https://www.bilibili.com/video/BV1Yb411a7ty?vd_source=ae8b0afb70b0888f747c6c427dee5317">https://www.bilibili.com/video/BV1Yb411a7ty?vd_source=ae8b0afb70b0888f747c6c427dee5317</a></p>
+<p>windows版：</p>
+<p>【Hexo搭建个人博客——系列教程】<a href="https://www.bilibili.com/video/BV1q741167PJ?vd_source=ae8b0afb70b0888f747c6c427dee5317">https://www.bilibili.com/video/BV1q741167PJ?vd_source=ae8b0afb70b0888f747c6c427dee5317</a></p>
+<p>如果想让自己的博客更加美观，可以设置主题以我现在使用的为例给出官方网站以及视频教程链接：</p>
+<p>【使用Hexo搭建个人博客手摸手教学(8)|butterfly主题页面配置】<a href="https://www.bilibili.com/video/BV1Fb4y1r7ja?vd_source=ae8b0afb70b0888f747c6c427dee5317">https://www.bilibili.com/video/BV1Fb4y1r7ja?vd_source=ae8b0afb70b0888f747c6c427dee5317</a></p>
+<p>官方文档：</p>
+<p><a href="https://butterfly.js.org/posts/21cfbf15/">Butterfly 安裝文檔(一) 快速開始 | Butterfly</a></p>
+]]></content>
+      <categories>
+        <category>经验分享</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+        <tag>Github</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2023/05/31/hello-world/</url>
     <content><![CDATA[<hr>
@@ -78,84 +156,6 @@
 ]]></content>
       <tags>
         <tag>经验分享</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>使用hexo+GitHub搭建个人博客</title>
-    <url>/2023/05/26/%E4%BD%BF%E7%94%A8hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
-    <content><![CDATA[<h1 id="环境搭建"><a href="#环境搭建" class="headerlink" title="环境搭建"></a>环境搭建</h1><h2 id="1-安装Node-js"><a href="#1-安装Node-js" class="headerlink" title="1.安装Node.js"></a>1.安装Node.js</h2><p><em>这个最容易出现问题，而且出错了非常难搞，尽量避免踩坑</em></p>
-<p>建议直接跟视频或教程走，下面给出推荐：</p>
-<p><a href="https://blog.csdn.net/qq_42006801/article/details/124830995">Node.js安装与配置（详细步骤）_nodejs安装及环境配置_liyitongxue的博客-CSDN博客</a></p>
-<p>【Node.js安装及环境变量配置】<a href="https://www.bilibili.com/video/BV19F411t7zX?vd_source=ae8b0afb70b0888f747c6c427dee5317">https://www.bilibili.com/video/BV19F411t7zX?vd_source=ae8b0afb70b0888f747c6c427dee5317</a></p>
-<p>友情提示：</p>
-<p>1.对于不是第一次安装node.js的朋友一定要看自己的npm 版本与node版本是否对应，尽量选择15版本以上的。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230526225434376.png" alt="image-20230526225434376"></p>
-<p>2.配置好环境变量后可以测试下面代码，如果成功其余的错误也可以忽略，我们只用npm也可以安装hexo，其中cnpm随缘安装。</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install express -g</span><br></pre></td></tr></table></figure>
-
-<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230526225954481.png" alt="image-20230526225954481"></p>
-<h2 id="2-安装hexo"><a href="#2-安装hexo" class="headerlink" title="2.安装hexo"></a>2.安装hexo</h2><p>以管理员身份进入终端，以win11为例</p>
-<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230526230331907.png" alt="image-20230526230331907"></p>
-<p>执行下面命令</p>
-<figure class="highlight powershell"><table><tr><td class="code"><pre><span class="line">npm install hexo<span class="literal">-cli</span> <span class="literal">-g</span> <span class="comment">#安装hexo</span></span><br><span class="line"></span><br><span class="line">npm install hexo<span class="literal">-deployer-git</span> <span class="literal">--save</span> <span class="comment">#安装部署插件</span></span><br><span class="line"></span><br><span class="line">hexo init myblog <span class="comment">#其中myblog可以替换为自己喜欢的名字</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">cd</span> myblog <span class="comment">#切换到博客根目录</span></span><br><span class="line"></span><br><span class="line">npm install <span class="comment">#安装环境</span></span><br><span class="line"></span><br><span class="line">hexo server <span class="comment">#本地启动</span></span><br></pre></td></tr></table></figure>
-
-<p>浏览器中访问地址 “localhost:4000&#x2F;”，可以预览我们的博客。</p>
-<p><img src="https://tse3-mm.cn.bing.net/th/id/OIP-C.Awb9D93bM8H28DtIEzbQzQHaEK?pid=ImgDet&rs=1"></p>
-<p>新建博客：</p>
-<figure class="highlight powershell"><table><tr><td class="code"><pre><span class="line">hexo n <span class="string">&quot;第一篇博客&quot;</span> <span class="comment"># 新建一个名为第一篇博客.md的文件</span></span><br></pre></td></tr></table></figure>
-
-<p>关于博客文件目录，我们目前只需要知道以下几个重要的文件目录即可：</p>
-<p><code>public</code>目录下存放的是我们生成的<strong>「静态页面」</strong>；</p>
-<p><code>source/_posts</code>目录下存放的是我们写的<strong>「文章」</strong>；</p>
-<p><code>themes</code>目录下存放的是<strong>「博客」</strong>的主题；</p>
-<p><code>_config.yml</code>是<strong>「博客全局配置」</strong>文件；</p>
-<p><code>_config.landscape.yml</code>是<strong>「博客主题配置」</strong>文件。</p>
-<h1 id="部署到GitHub上"><a href="#部署到GitHub上" class="headerlink" title="部署到GitHub上"></a>部署到GitHub上</h1><h2 id="1-安装Git"><a href="#1-安装Git" class="headerlink" title="1.安装Git"></a>1.安装Git</h2><p>注册git账号：<a href="https://github.com/%E5%B9%B6%E8%AE%B0%E4%BD%8F%E7%94%A8%E6%88%B7%E5%90%8D%E5%92%8C%E5%AF%86%E7%A0%81">https://github.com/并记住用户名和密码</a></p>
-<p>下载地址：<a href="https://git-scm.com/downloads">Git - Downloads (git-scm.com)</a>鼠标右键显示Git Bash Here就表示安装Git成功了。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230519100001099.png" alt="image-20230519100001099"></p>
-<h2 id="2-配置Git"><a href="#2-配置Git" class="headerlink" title="2.配置Git"></a>2.配置Git</h2><figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">git config --global user.name &quot;Your Name&quot;</span><br></pre></td></tr></table></figure>
-
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">git config --global user.email &quot;邮箱&quot;</span><br></pre></td></tr></table></figure>
-
-<p>是否已经登录</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">git config user.name</span><br></pre></td></tr></table></figure>
-
-<p>生成密钥</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">ssh-keygen -t rsa -C &quot;邮箱&quot;</span><br></pre></td></tr></table></figure>
-
-<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230519101945342.png" alt="image-20230519101945342"></p>
-<p><em>将其中Your Name替换为用户名,邮箱替换为自己注册时的邮箱</em></p>
-<p>如图所示，密钥已经给我们生成到<strong>C:&#x2F;Users&#x2F;UserName&#x2F;.shh&#x2F;id_rsa</strong>文件下了。</p>
-<p>打开该目录下的<strong>id_rsa.pub</strong>文件，用记事本打开并复制这个密钥。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230519102405079.png" alt="image-20230519102405079"></p>
-<p>去GitHub上验证</p>
-<p>登录github -&gt;进入设置-&gt;SSH and GPG key -&gt;新建密钥，把上面文件里的内容全部复制粘贴进去即可。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230519102810743.png" alt="image-20230519102810743"></p>
-<p><img src="C:\Users\张阳阳\AppData\Roaming\Typora\typora-user-images\image-20230519103144116.png" alt="image-20230519103144116"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230519103248279.png" alt="image-20230519103248279"></p>
-<p>在Git Bash里输入<code>ssh -T git@github.com</code> ，成功的话会出现<br>You’ve successfully authenticated, but GitHub does not provide shell access.。</p>
-<h2 id="3-新建仓库"><a href="#3-新建仓库" class="headerlink" title="3.新建仓库"></a>3.新建仓库</h2><p>在github上新建一个仓库</p>
-<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230519145847289.png" alt="image-20230519145847289"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230519150254713.png" alt="image-20230519150254713"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230519152023033.png" alt="image-20230519152023033"></p>
-<h2 id="4-部署到Git"><a href="#4-部署到Git" class="headerlink" title="4.部署到Git"></a>4.部署到Git</h2><figure class="highlight powershell"><table><tr><td class="code"><pre><span class="line">hexo <span class="literal">-c</span> <span class="comment">#清理缓存</span></span><br><span class="line">hexo clean</span><br><span class="line">hexo g <span class="comment"># 生成静态网页</span></span><br><span class="line">hexo d <span class="comment">#部署到Git</span></span><br></pre></td></tr></table></figure>
-
-<p>浏览器输入”https:&#x2F;&#x2F;仓库名”即可。</p>
-<h1 id="推荐视频教程"><a href="#推荐视频教程" class="headerlink" title="推荐视频教程"></a>推荐视频教程</h1><p>mac版：</p>
-<p>【手把手教你从0开始搭建自己的个人博客 |无坑版视频教程| hexo】<a href="https://www.bilibili.com/video/BV1Yb411a7ty?vd_source=ae8b0afb70b0888f747c6c427dee5317">https://www.bilibili.com/video/BV1Yb411a7ty?vd_source=ae8b0afb70b0888f747c6c427dee5317</a></p>
-<p>windows版：</p>
-<p>【Hexo搭建个人博客——系列教程】<a href="https://www.bilibili.com/video/BV1q741167PJ?vd_source=ae8b0afb70b0888f747c6c427dee5317">https://www.bilibili.com/video/BV1q741167PJ?vd_source=ae8b0afb70b0888f747c6c427dee5317</a></p>
-<p>如果想让自己的博客更加美观，可以设置主题以我现在使用的为例给出官方网站以及视频教程链接：</p>
-<p>【使用Hexo搭建个人博客手摸手教学(8)|butterfly主题页面配置】<a href="https://www.bilibili.com/video/BV1Fb4y1r7ja?vd_source=ae8b0afb70b0888f747c6c427dee5317">https://www.bilibili.com/video/BV1Fb4y1r7ja?vd_source=ae8b0afb70b0888f747c6c427dee5317</a></p>
-<p>官方文档：</p>
-<p><a href="https://butterfly.js.org/posts/21cfbf15/">Butterfly 安裝文檔(一) 快速開始 | Butterfly</a></p>
-]]></content>
-      <categories>
-        <category>经验分享</category>
-      </categories>
-      <tags>
-        <tag>hexo</tag>
-        <tag>Github</tag>
       </tags>
   </entry>
   <entry>
