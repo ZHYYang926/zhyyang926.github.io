@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
+    <title>测试页面</title>
     <url>/2023/05/31/hello-world/</url>
     <content><![CDATA[<hr>
 <h1 id="标签外挂"><a href="#标签外挂" class="headerlink" title="标签外挂"></a>标签外挂</h1><div class="note simple"><p>默认 提示块标签</p>
@@ -195,22 +195,554 @@
     <url>/2023/05/28/%E6%9C%AC%E7%AB%99%E7%89%B9%E8%89%B2%E5%8A%9F%E8%83%BD/</url>
     <content><![CDATA[<hr>
 <h1 id="一-导航栏"><a href="#一-导航栏" class="headerlink" title="一.导航栏"></a>一.导航栏</h1><h2 id="1-搜索功能"><a href="#1-搜索功能" class="headerlink" title="1.搜索功能"></a>1.搜索功能</h2><p>可以通过搜索框进行全站搜索，如文章，图片，关键字。。。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230528143829378.png" alt="image-20230528143829378"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230528144101256.png" alt="image-20230528144101256"></p>
-<h2 id="2-音乐馆"><a href="#2-音乐馆" class="headerlink" title="2.音乐馆"></a>2.音乐馆</h2><p>位于清单栏下（有好听的请分享）</p>
-<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230528144329097.png" alt="image-20230528144329097"></p>
-<h2 id="3-照片墙"><a href="#3-照片墙" class="headerlink" title="3.照片墙"></a>3.照片墙</h2><p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230528144537977.png" alt="image-20230528144537977"></p>
-<h2 id="4-留言板"><a href="#4-留言板" class="headerlink" title="4.留言板"></a>4.留言板</h2><p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230528144646866.png" alt="image-20230528144646866"></p>
-<h2 id="5-评论区"><a href="#5-评论区" class="headerlink" title="5.评论区"></a>5.评论区</h2><p>需要登录社交平台才可以评论（目前支持QQ，微信，新浪微博，百度，豆瓣，人人网）</p>
-<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230528144726597.png" alt="image-20230528144726597"></p>
-<h1 id="二-侧边栏"><a href="#二-侧边栏" class="headerlink" title="二.侧边栏"></a>二.侧边栏</h1><h2 id="1-天气系统"><a href="#1-天气系统" class="headerlink" title="1.天气系统"></a>1.天气系统</h2><p>需要打开定位，默认坐标济南</p>
-<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230528145053976.png" alt="image-20230528145053976"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606161452743.png" alt="image-20230606161452743"></p>
 <h2 id="2-分类查询"><a href="#2-分类查询" class="headerlink" title="2.分类查询"></a>2.分类查询</h2><p>按照标签，时间，分类查询</p>
-<p><img src="C:\Users\张阳阳\AppData\Roaming\Typora\typora-user-images\image-20230528145212593.png" alt="image-20230528145212593"></p>
-<h1 id="三-工具栏"><a href="#三-工具栏" class="headerlink" title="三.工具栏"></a>三.工具栏</h1><h2 id="1-简繁切换，主题颜色切换，单栏双栏切换"><a href="#1-简繁切换，主题颜色切换，单栏双栏切换" class="headerlink" title="1.简繁切换，主题颜色切换，单栏双栏切换"></a>1.简繁切换，主题颜色切换，单栏双栏切换</h2><p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230528145352632.png" alt="image-20230528145352632"></p>
-<h2 id="2-在线聊天工具"><a href="#2-在线聊天工具" class="headerlink" title="2.在线聊天工具"></a>2.在线聊天工具</h2><p>方便直接与您聊天</p>
-<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230528145611053.png" alt="image-20230528145611053"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606161905413.png" alt="image-20230606161905413"></p>
+<h2 id="3-照片墙"><a href="#3-照片墙" class="headerlink" title="3.照片墙"></a>3.照片墙</h2><p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606161619500.png" alt="image-20230606161619500"></p>
+<h2 id="4-留言板"><a href="#4-留言板" class="headerlink" title="4.留言板"></a>4.留言板</h2><p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606161702524.png" alt="image-20230606161702524"></p>
+<h2 id="5-评论区"><a href="#5-评论区" class="headerlink" title="5.评论区"></a>5.评论区</h2><p>需要登录才可以评论</p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606161726164.png" alt="image-20230606161726164"></p>
+<h2 id="6-说说——记录日常生活"><a href="#6-说说——记录日常生活" class="headerlink" title="6.说说——记录日常生活"></a>6.说说——记录日常生活</h2><p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606162744702.png" alt="image-20230606162744702"></p>
+<h1 id="二-侧边栏"><a href="#二-侧边栏" class="headerlink" title="二.侧边栏"></a>二.侧边栏</h1><p>侧边栏有文章目录和工具栏</p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606162058188.png" alt="image-20230606162058188"></p>
+<h1 id="三-工具栏"><a href="#三-工具栏" class="headerlink" title="三.工具栏"></a>三.工具栏</h1><h2 id="1-在线聊天工具"><a href="#1-在线聊天工具" class="headerlink" title="1.在线聊天工具"></a>1.在线聊天工具</h2><p>方便直接与您聊天</p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606162237264.png" alt="image-20230606162237264"></p>
+<h2 id="2-简繁切换"><a href="#2-简繁切换" class="headerlink" title="2.简繁切换"></a>2.简繁切换</h2><p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606162347076.png" alt="image-20230606162347076"></p>
+<h2 id="3-阅读模式"><a href="#3-阅读模式" class="headerlink" title="3.阅读模式"></a>3.阅读模式</h2><p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606162438071.png" alt="image-20230606162438071"></p>
+<h2 id="4-深色模式"><a href="#4-深色模式" class="headerlink" title="4.深色模式"></a>4.深色模式</h2><p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606162524502.png" alt="image-20230606162524502"></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>校园新闻平台</title>
+    <url>/2023/06/05/%E6%A0%A1%E5%9B%AD%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E5%B9%B3%E5%8F%B0/</url>
+    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><h2 id="开发背景"><a href="#开发背景" class="headerlink" title="开发背景"></a>开发背景</h2><p>校园新闻平台是以新闻宣传机构的在线信息发布需求为基础，随着数字化和信息化的快速发展，校园新闻在校园内的传播和沟通中变得越来越重要。学校需要一个有效的管理系统来整合、发布和传播校园新闻，以满足师生、校友和其他利益相关者的信息需求。借助互联网技术开发的信息化平台。在这一平台之上，不仅可以看到与常规纸质报纸相同的信息，还有助于实现新闻信息的规范化管理，为读者和采编人员查询和阅读带来便利。从目前看，通过网络获取新闻信息的人群远远大于纸质媒介用户，而且两者之间的差距还在进一步扩大。<br>在学校网站上，校园新闻平台是最为重要的组成部分，其主要作用有两个:一.是动态发布校内新闻或者重大项目公示;二是向社会传递学校的办学思路、教学成果、科研进展等，使学校获得更高的知名度和社会认可度。因此，研究网络环境下的电子新闻媒体，开发校园新闻平台完备校园网的重要工作之一。首先对校园新闻平台工作的实际需求进行了分析，特别是对其业务需求做了详尽的分析;而后，对校园新闻平台做了总体设计，从系统结构、总体框架、数据库等方面进行了详细阐述。在数据库设计上，阐述了该系统的概念结构设计、逻辑结构设计，描述了主要库表。从功能需求结构来看，校园新闻平台主要包括新闻浏览，论坛讨论和新闻管理三大功能模块。总之，开发一个校园新闻管理系统可以满足学校信息传播的需求，提高信息发布效率，增强用户参与度和体验，促进校园文化交流，并提供数据支持进行进一步的分析和优化。这样的系统将为学校带来更好的信息管理和校园文化建设。</p>
+<h2 id="开发目标"><a href="#开发目标" class="headerlink" title="开发目标"></a>开发目标</h2><p><strong>对于用户</strong></p>
+<ul>
+<li>用户可以浏览全部新闻</li>
+<li>用户可以按照不同类型进行查阅新闻</li>
+<li>用户可以登录&#x2F;注册论坛</li>
+<li>用户可以在不同的板块下发帖</li>
+<li>用户可以在帖子后面追加评论</li>
+<li>用户可以修改自己的密码</li>
+</ul>
+<p><strong>对于管理员</strong></p>
+<ul>
+<li>管理员可以对用户进行维护</li>
+<li>管理员可以删除不友好的帖子或评论</li>
+<li>管理员可以按照关键字来查询帖子或新闻</li>
+<li>写手可以发表新闻</li>
+<li>审核员可以审核自身以下等级的新闻并可以发表新闻</li>
+<li>总管理可以审核所有等级的新闻，可以发布新闻，管理用户，维护管理员，管理论坛，管理新闻</li>
+</ul>
+<h2 id="设计原则"><a href="#设计原则" class="headerlink" title="设计原则"></a>设计原则</h2><ol>
+<li>单一职责原则（Single Responsibility Principle，SRP）：一个类或模块应该只有一个责任。这样可以降低类的复杂性，提高代码的可读性和可维护性。</li>
+<li>开放封闭原则（Open-Closed Principle，OCP）：软件实体（类、模块、函数等）应该对扩展开放，对修改关闭。通过使用抽象和接口，可以在不修改现有代码的情况下扩展系统功能。</li>
+<li>里氏替换原则（Liskov Substitution Principle，LSP）：子类型必须能够替换它们的父类型。这意味着子类应该与其父类具有相同的行为，并且可以无缝地替换父类的实例。</li>
+<li>依赖倒置原则（Dependency Inversion Principle，DIP）：高层模块不应该依赖于低层模块，它们应该依赖于抽象。通过引入抽象接口，可以降低模块之间的耦合度，提高系统的灵活性和可测试性。</li>
+<li>接口隔离原则（Interface Segregation Principle，ISP）：客户端不应该依赖它们不需要的接口。接口应该细化，以满足特定客户端的需求，避免接口过于臃肿和冗余。</li>
+<li>迪米特法则（Law of Demeter，LoD）：一个对象应该对其他对象有尽可能少的了解。模块之间应该通过最小的接口进行通信，降低耦合度。</li>
+<li>高内聚低耦合原则：模块内的组件应该紧密相关，而不同模块之间的依赖应该尽量减少。这样可以提高代码的可维护性和可测试性。</li>
+<li>面向对象设计原则：封装、继承和多态是面向对象设计的基本原则。合理应用这些原则可以提高代码的可重用性和灵活性。</li>
+</ol>
+<h1 id="数据库设计"><a href="#数据库设计" class="headerlink" title="数据库设计"></a>数据库设计</h1><p>1.用户表（user）</p>
+<table>
+<thead>
+<tr>
+<th>字段</th>
+<th>类型</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>id</td>
+<td>varchar</td>
+<td>用户编号</td>
+</tr>
+<tr>
+<td>password</td>
+<td>varchar</td>
+<td>用户密码</td>
+</tr>
+</tbody></table>
+<p>2.管理员表（admin）</p>
+<table>
+<thead>
+<tr>
+<th>字段</th>
+<th>类类型</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>id</td>
+<td>varchar</td>
+<td>管理员编号</td>
+</tr>
+<tr>
+<td>password</td>
+<td>varchar</td>
+<td>管理员密码</td>
+</tr>
+<tr>
+<td>level</td>
+<td>int</td>
+<td>管理员等级</td>
+</tr>
+</tbody></table>
+<p><em>注：管理员有四个身份：总管理，一级审核，二级审核，写手。每个身份登录可以看到不同的界面，在数据库的level中分别用1,2,3,4标识</em></p>
+<p>3.学校新闻表（schoolnews）</p>
+<table>
+<thead>
+<tr>
+<th>字段</th>
+<th>类型</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>id</td>
+<td>int</td>
+<td>新闻编号</td>
+</tr>
+<tr>
+<td>writer</td>
+<td>varchar</td>
+<td>写手编号</td>
+</tr>
+<tr>
+<td>title</td>
+<td>varchar</td>
+<td>新闻标题</td>
+</tr>
+<tr>
+<td>word</td>
+<td>varchar</td>
+<td>新闻内容</td>
+</tr>
+<tr>
+<td>time</td>
+<td>datetime</td>
+<td>创建时间</td>
+</tr>
+<tr>
+<td>type</td>
+<td>varchar</td>
+<td>新闻类型</td>
+</tr>
+<tr>
+<td>emo</td>
+<td>int</td>
+<td>审核人编号</td>
+</tr>
+<tr>
+<td>wlevel</td>
+<td>int</td>
+<td>写手等级</td>
+</tr>
+</tbody></table>
+<p>4.论坛表（news）</p>
+<table>
+<thead>
+<tr>
+<th>字段</th>
+<th>类型</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>id</td>
+<td>int</td>
+<td>编号</td>
+</tr>
+<tr>
+<td>user</td>
+<td>varchar</td>
+<td>发表人</td>
+</tr>
+<tr>
+<td>title</td>
+<td>varchar</td>
+<td>题目</td>
+</tr>
+<tr>
+<td>news</td>
+<td>varchar</td>
+<td>正文</td>
+</tr>
+<tr>
+<td>type</td>
+<td>varchar</td>
+<td>类型</td>
+</tr>
+<tr>
+<td>time</td>
+<td>datetime</td>
+<td>发表时间</td>
+</tr>
+</tbody></table>
+<p>5.评论表（log）</p>
+<table>
+<thead>
+<tr>
+<th>字段</th>
+<th>类型</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>id</td>
+<td>int</td>
+<td>评论编号</td>
+</tr>
+<tr>
+<td>lzid</td>
+<td>int</td>
+<td>论坛问题编号</td>
+</tr>
+<tr>
+<td>loguser</td>
+<td>varchar</td>
+<td>评论者编号</td>
+</tr>
+<tr>
+<td>title</td>
+<td>varchar</td>
+<td>评论标题</td>
+</tr>
+<tr>
+<td>log</td>
+<td>varchar</td>
+<td>评论内容</td>
+</tr>
+<tr>
+<td>time</td>
+<td>datetime</td>
+<td>评论时间</td>
+</tr>
+</tbody></table>
+<h1 id="项目开发"><a href="#项目开发" class="headerlink" title="项目开发"></a>项目开发</h1><h2 id="开发环境"><a href="#开发环境" class="headerlink" title="开发环境"></a>开发环境</h2><p><strong>开发工具：</strong></p>
+<ul>
+<li>IntelliJ IDEA  2022.3.3</li>
+<li>apache-maven-3.6.3</li>
+<li>apache-tomcat-9.0.69</li>
+<li>jdk1.8</li>
+<li>Lombok</li>
+</ul>
+<p><strong>技术栈：</strong></p>
+<ul>
+<li>Springboot</li>
+<li>Spring-MVC</li>
+<li>myBatis-Puls</li>
+<li>thymeleaf</li>
+</ul>
+<h2 id="新建项目"><a href="#新建项目" class="headerlink" title="新建项目"></a>新建项目</h2><p>1.新建项目</p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606095539889.png" alt="image-20230606095539889"></p>
+<p>2.添加依赖</p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606095718685.png" alt="image-20230606095718685"></p>
+<h2 id="环境配置"><a href="#环境配置" class="headerlink" title="环境配置"></a>环境配置</h2><p>1.配置application.yaml</p>
+<figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="comment">#关闭模版引擎缓存</span></span><br><span class="line"><span class="attr">spring:</span></span><br><span class="line">  <span class="attr">thymeleaf:</span></span><br><span class="line">    <span class="attr">cache:</span> <span class="literal">false</span></span><br><span class="line">  <span class="comment">#配置文件的位置</span></span><br><span class="line">  <span class="attr">messages:</span></span><br><span class="line">    <span class="attr">basename:</span> <span class="string">i18n.login</span></span><br><span class="line"><span class="comment">#以下为数据库mybatis配置</span></span><br><span class="line">  <span class="attr">datasource:</span></span><br><span class="line">    <span class="attr">username:</span> <span class="string">root</span></span><br><span class="line">    <span class="attr">password:</span> <span class="string">root</span></span><br><span class="line">    <span class="attr">url:</span> <span class="string">jdbc:mysql://localhost:3306/hello?useUnicode=true&amp;characterEncoding=utf-8</span></span><br><span class="line">    <span class="comment">#    如果时区异常可以加入&amp;severTimezone=UTC</span></span><br><span class="line">    <span class="attr">driver-class-name:</span> <span class="string">com.mysql.jdbc.Driver</span></span><br><span class="line">  <span class="attr">mvc:</span></span><br><span class="line">    <span class="attr">format:</span></span><br><span class="line">      <span class="attr">date:</span> <span class="string">yyyy-MM-dd</span></span><br><span class="line"><span class="comment">#mybatis配置</span></span><br><span class="line"><span class="attr">mybatis:</span></span><br><span class="line">  <span class="attr">type-aliases-package:</span> <span class="string">com.asuka.hellospring.pojo</span></span><br><span class="line">  <span class="attr">mapper-locations:</span> <span class="string">classpath:mybatis/mapper/*.xml</span></span><br></pre></td></tr></table></figure>
+
+<p>2.给pom.xml添加依赖</p>
+<figure class="highlight xml"><table><tr><td class="code"><pre><span class="line">		<span class="tag">&lt;<span class="name">dependency</span>&gt;</span></span><br><span class="line">			<span class="tag">&lt;<span class="name">groupId</span>&gt;</span>org.springframework.boot<span class="tag">&lt;/<span class="name">groupId</span>&gt;</span></span><br><span class="line">			<span class="tag">&lt;<span class="name">artifactId</span>&gt;</span>spring-boot-starter-web<span class="tag">&lt;/<span class="name">artifactId</span>&gt;</span></span><br><span class="line">		<span class="tag">&lt;/<span class="name">dependency</span>&gt;</span></span><br><span class="line"></span><br><span class="line">		<span class="tag">&lt;<span class="name">dependency</span>&gt;</span></span><br><span class="line">			<span class="tag">&lt;<span class="name">groupId</span>&gt;</span>org.springframework.boot<span class="tag">&lt;/<span class="name">groupId</span>&gt;</span></span><br><span class="line">			<span class="tag">&lt;<span class="name">artifactId</span>&gt;</span>spring-boot-starter-test<span class="tag">&lt;/<span class="name">artifactId</span>&gt;</span></span><br><span class="line">			<span class="tag">&lt;<span class="name">scope</span>&gt;</span>test<span class="tag">&lt;/<span class="name">scope</span>&gt;</span></span><br><span class="line">		<span class="tag">&lt;/<span class="name">dependency</span>&gt;</span></span><br><span class="line"></span><br><span class="line">		<span class="tag">&lt;<span class="name">dependency</span>&gt;</span></span><br><span class="line">			<span class="tag">&lt;<span class="name">groupId</span>&gt;</span>org.projectlombok<span class="tag">&lt;/<span class="name">groupId</span>&gt;</span></span><br><span class="line">			<span class="tag">&lt;<span class="name">artifactId</span>&gt;</span>lombok<span class="tag">&lt;/<span class="name">artifactId</span>&gt;</span></span><br><span class="line">		<span class="tag">&lt;/<span class="name">dependency</span>&gt;</span></span><br><span class="line"></span><br><span class="line">		<span class="tag">&lt;<span class="name">dependency</span>&gt;</span></span><br><span class="line">			<span class="tag">&lt;<span class="name">groupId</span>&gt;</span>mysql<span class="tag">&lt;/<span class="name">groupId</span>&gt;</span></span><br><span class="line">			<span class="tag">&lt;<span class="name">artifactId</span>&gt;</span>mysql-connector-java<span class="tag">&lt;/<span class="name">artifactId</span>&gt;</span></span><br><span class="line">			<span class="tag">&lt;<span class="name">version</span>&gt;</span>5.1.21<span class="tag">&lt;/<span class="name">version</span>&gt;</span></span><br><span class="line">		<span class="tag">&lt;/<span class="name">dependency</span>&gt;</span></span><br><span class="line"></span><br><span class="line">		<span class="comment">&lt;!--thymeleaf--&gt;</span></span><br><span class="line">		<span class="tag">&lt;<span class="name">dependency</span>&gt;</span></span><br><span class="line">			<span class="tag">&lt;<span class="name">groupId</span>&gt;</span>org.springframework.boot<span class="tag">&lt;/<span class="name">groupId</span>&gt;</span></span><br><span class="line">			<span class="tag">&lt;<span class="name">artifactId</span>&gt;</span>spring-boot-starter-thymeleaf<span class="tag">&lt;/<span class="name">artifactId</span>&gt;</span></span><br><span class="line">		<span class="tag">&lt;/<span class="name">dependency</span>&gt;</span></span><br><span class="line"></span><br><span class="line">		<span class="tag">&lt;<span class="name">dependency</span>&gt;</span></span><br><span class="line">			<span class="tag">&lt;<span class="name">groupId</span>&gt;</span>com.baomidou<span class="tag">&lt;/<span class="name">groupId</span>&gt;</span></span><br><span class="line">			<span class="tag">&lt;<span class="name">artifactId</span>&gt;</span>mybatis-plus-boot-starter<span class="tag">&lt;/<span class="name">artifactId</span>&gt;</span></span><br><span class="line">			<span class="tag">&lt;<span class="name">version</span>&gt;</span>3.4.3<span class="tag">&lt;/<span class="name">version</span>&gt;</span></span><br><span class="line">		<span class="tag">&lt;/<span class="name">dependency</span>&gt;</span></span><br><span class="line"></span><br><span class="line">		<span class="tag">&lt;<span class="name">dependency</span>&gt;</span></span><br><span class="line">			<span class="tag">&lt;<span class="name">groupId</span>&gt;</span>com.github.pagehelper<span class="tag">&lt;/<span class="name">groupId</span>&gt;</span></span><br><span class="line">			<span class="tag">&lt;<span class="name">artifactId</span>&gt;</span>pagehelper-spring-boot-starter<span class="tag">&lt;/<span class="name">artifactId</span>&gt;</span></span><br><span class="line">			<span class="tag">&lt;<span class="name">version</span>&gt;</span>1.4.3<span class="tag">&lt;/<span class="name">version</span>&gt;</span></span><br><span class="line">		<span class="tag">&lt;/<span class="name">dependency</span>&gt;</span></span><br><span class="line"><span class="comment">&lt;!--		热部署--&gt;</span></span><br><span class="line">		<span class="tag">&lt;<span class="name">dependency</span>&gt;</span></span><br><span class="line">			<span class="tag">&lt;<span class="name">groupId</span>&gt;</span>org.springframework.boot<span class="tag">&lt;/<span class="name">groupId</span>&gt;</span></span><br><span class="line">			<span class="tag">&lt;<span class="name">artifactId</span>&gt;</span>spring-boot-devtools<span class="tag">&lt;/<span class="name">artifactId</span>&gt;</span></span><br><span class="line">			<span class="tag">&lt;<span class="name">optional</span>&gt;</span>true<span class="tag">&lt;/<span class="name">optional</span>&gt;</span> <span class="comment">&lt;!-- 这个需要为 true 热部署才有效 --&gt;</span></span><br><span class="line">		<span class="tag">&lt;/<span class="name">dependency</span>&gt;</span></span><br></pre></td></tr></table></figure>
+
+<h2 id="开发过程"><a href="#开发过程" class="headerlink" title="开发过程"></a>开发过程</h2><h3 id="新闻部份"><a href="#新闻部份" class="headerlink" title="新闻部份"></a>新闻部份</h3><p><strong>1.创建实体(Schoolnews)</strong></p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="meta">@Data</span></span><br><span class="line"><span class="meta">@NoArgsConstructor</span></span><br><span class="line"><span class="meta">@AllArgsConstructor</span></span><br><span class="line"><span class="keyword">public</span> <span class="keyword">class</span> <span class="title class_">Schoolnews</span> &#123;</span><br><span class="line">    <span class="type">int</span> id;</span><br><span class="line">    String writer;</span><br><span class="line">    String title;</span><br><span class="line">    String word;</span><br><span class="line"></span><br><span class="line">    String type;</span><br><span class="line">    <span class="type">int</span> emo;</span><br><span class="line">    <span class="type">int</span> wlevel;</span><br><span class="line"></span><br><span class="line">    <span class="meta">@TableField(fill= FieldFill.INSERT)</span></span><br><span class="line">    Date time;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p><strong>2.配置mapper</strong></p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="meta">@Mapper</span></span><br><span class="line"><span class="keyword">public</span> <span class="keyword">interface</span> <span class="title class_">SchoolnewsMapper</span> <span class="keyword">extends</span> <span class="title class_">BaseMapper</span>&lt;Schoolnews&gt; &#123;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p><strong>3.配置控制器</strong></p>
+<p>根据标签选择新闻(回显全部新闻)</p>
+<p>——SnewsController</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="meta">@RequestMapping(&quot;/snews&quot;)</span></span><br><span class="line"><span class="keyword">public</span> String <span class="title function_">newjud</span><span class="params">(Model model, <span class="meta">@RequestParam(defaultValue = &quot;1&quot;, value = &quot;pageNum&quot;)</span> Integer pageNum, <span class="meta">@RequestParam(defaultValue = &quot;7&quot;, value = &quot;pageSize&quot;)</span> Integer pageSize)</span> &#123;</span><br><span class="line"></span><br><span class="line">    <span class="comment">//实现倒序输出（校内新闻）</span></span><br><span class="line">    QueryWrapper&lt;Schoolnews&gt; newsQueryWrapper = <span class="keyword">new</span> <span class="title class_">QueryWrapper</span>&lt;&gt;();</span><br><span class="line">    newsQueryWrapper.orderByDesc(<span class="string">&quot;id&quot;</span>);<span class="comment">//倒序</span></span><br><span class="line">    newsQueryWrapper.eq(<span class="string">&quot;emo&quot;</span>, <span class="number">3</span>);</span><br><span class="line">    newsQueryWrapper.eq(<span class="string">&quot;type&quot;</span>, <span class="string">&quot;校内新闻&quot;</span>);</span><br><span class="line"></span><br><span class="line">    PageHelper.startPage(pageNum, pageSize);</span><br><span class="line">    List&lt;Schoolnews&gt; schoolnews = schoolnewsMapper.selectList(newsQueryWrapper);</span><br><span class="line">    model.addAttribute(<span class="string">&quot;sdutcmnews&quot;</span>, schoolnews);</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">    <span class="comment">//实现倒序输出（院系速递）</span></span><br><span class="line">    QueryWrapper&lt;Schoolnews&gt; wrapperb = <span class="keyword">new</span> <span class="title class_">QueryWrapper</span>&lt;&gt;();</span><br><span class="line">    wrapperb.orderByDesc(<span class="string">&quot;id&quot;</span>);</span><br><span class="line">    wrapperb.eq(<span class="string">&quot;emo&quot;</span>, <span class="number">3</span>);</span><br><span class="line">    wrapperb.eq(<span class="string">&quot;type&quot;</span>, <span class="string">&quot;院系速递&quot;</span>);</span><br><span class="line">    PageHelper.startPage(pageNum, pageSize);</span><br><span class="line">    List&lt;Schoolnews&gt; schoolnewsb = schoolnewsMapper.selectList(wrapperb);</span><br><span class="line">    model.addAttribute(<span class="string">&quot;yuanxinews&quot;</span>, schoolnewsb);</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">    <span class="comment">//实现倒序输出（通知公告）</span></span><br><span class="line">    QueryWrapper&lt;Schoolnews&gt; wrapperc = <span class="keyword">new</span> <span class="title class_">QueryWrapper</span>&lt;&gt;();</span><br><span class="line">    wrapperc.orderByDesc(<span class="string">&quot;id&quot;</span>);</span><br><span class="line">    wrapperc.eq(<span class="string">&quot;emo&quot;</span>, <span class="number">3</span>);</span><br><span class="line">    wrapperc.eq(<span class="string">&quot;type&quot;</span>, <span class="string">&quot;通知公告&quot;</span>);</span><br><span class="line"></span><br><span class="line">    PageHelper.startPage(pageNum, pageSize);</span><br><span class="line">    List&lt;Schoolnews&gt; schoolnewsc = schoolnewsMapper.selectList(wrapperc);</span><br><span class="line">    model.addAttribute(<span class="string">&quot;tongzhinews&quot;</span>, schoolnewsc);</span><br><span class="line"></span><br><span class="line">    <span class="comment">//实现倒序输出（电子校报）</span></span><br><span class="line">    QueryWrapper&lt;Schoolnews&gt; wrapperd = <span class="keyword">new</span> <span class="title class_">QueryWrapper</span>&lt;&gt;();</span><br><span class="line">    wrapperd.orderByDesc(<span class="string">&quot;id&quot;</span>);</span><br><span class="line">    wrapperd.eq(<span class="string">&quot;emo&quot;</span>, <span class="number">3</span>);</span><br><span class="line">    wrapperd.eq(<span class="string">&quot;type&quot;</span>, <span class="string">&quot;电子校报&quot;</span>);</span><br><span class="line"></span><br><span class="line">    PageHelper.startPage(pageNum, pageSize);</span><br><span class="line">    List&lt;Schoolnews&gt; schoolnewsd = schoolnewsMapper.selectList(wrapperd);</span><br><span class="line">    model.addAttribute(<span class="string">&quot;dianzinews&quot;</span>, schoolnewsd);</span><br><span class="line"></span><br><span class="line">    <span class="comment">//实现倒序输出（媒体）</span></span><br><span class="line">    QueryWrapper&lt;Schoolnews&gt; wrappere = <span class="keyword">new</span> <span class="title class_">QueryWrapper</span>&lt;&gt;();</span><br><span class="line">    wrappere.orderByDesc(<span class="string">&quot;id&quot;</span>);</span><br><span class="line">    wrappere.eq(<span class="string">&quot;emo&quot;</span>, <span class="number">3</span>);</span><br><span class="line">    wrappere.eq(<span class="string">&quot;type&quot;</span>, <span class="string">&quot;媒体&quot;</span>);</span><br><span class="line"></span><br><span class="line">    PageHelper.startPage(pageNum, pageSize);</span><br><span class="line">    List&lt;Schoolnews&gt; schoolnewse = schoolnewsMapper.selectList(wrappere);</span><br><span class="line">    model.addAttribute(<span class="string">&quot;meitinews&quot;</span>, schoolnewse);</span><br><span class="line">    <span class="keyword">return</span> <span class="string">&quot;/snews/index&quot;</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>点击查看具体新闻</p>
+<p>——SnewsController</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="meta">@GetMapping(&quot;/indnewss/&#123;id&#125;&quot;)</span></span><br><span class="line"><span class="keyword">public</span> String <span class="title function_">indpageshouw</span><span class="params">(<span class="meta">@PathVariable(&quot;id&quot;)</span> String id, Model model)</span> &#123;</span><br><span class="line">    <span class="type">Schoolnews</span> <span class="variable">schoolnews</span> <span class="operator">=</span> schoolnewsMapper.selectById(id);</span><br><span class="line">    model.addAttribute(<span class="string">&quot;news&quot;</span>, schoolnews);</span><br><span class="line">    <span class="keyword">return</span> <span class="string">&quot;snews/newshows&quot;</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>查看某类全部新闻</p>
+<p>——SnewsController</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="meta">@GetMapping(&quot;/newlis/&#123;type&#125;&quot;)</span></span><br><span class="line"><span class="keyword">public</span> String <span class="title function_">newliss</span><span class="params">(<span class="meta">@PathVariable(&quot;type&quot;)</span> String type, Model model)</span> &#123;</span><br><span class="line">    QueryWrapper&lt;Schoolnews&gt; new233 = <span class="keyword">new</span> <span class="title class_">QueryWrapper</span>&lt;&gt;();</span><br><span class="line">    new233.eq(<span class="string">&quot;type&quot;</span>, type);</span><br><span class="line">    List&lt;Schoolnews&gt; schoolnews = schoolnewsMapper.selectList(new233);</span><br><span class="line">    model.addAttribute(<span class="string">&quot;type&quot;</span>, type);</span><br><span class="line">    model.addAttribute(<span class="string">&quot;news&quot;</span>, schoolnews);</span><br><span class="line">    <span class="keyword">return</span> <span class="string">&quot;snews/newslists&quot;</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h3 id="论坛部分"><a href="#论坛部分" class="headerlink" title="论坛部分"></a>论坛部分</h3><p><strong>创建实体</strong></p>
+<p>①.帖子(News)</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="meta">@Data</span></span><br><span class="line"><span class="meta">@NoArgsConstructor</span></span><br><span class="line"><span class="meta">@AllArgsConstructor</span></span><br><span class="line"><span class="keyword">public</span> <span class="keyword">class</span> <span class="title class_">News</span> &#123;</span><br><span class="line">    <span class="type">int</span> id;</span><br><span class="line">    String user;</span><br><span class="line">    String title;</span><br><span class="line">    String news;</span><br><span class="line">    String type;</span><br><span class="line"></span><br><span class="line">    <span class="meta">@TableField(fill= FieldFill.INSERT)</span></span><br><span class="line">    Date time;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>②.用户(User)</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="meta">@Data</span></span><br><span class="line"><span class="meta">@NoArgsConstructor</span></span><br><span class="line"><span class="meta">@AllArgsConstructor</span></span><br><span class="line"><span class="keyword">public</span> <span class="keyword">class</span> <span class="title class_">User</span> &#123;</span><br><span class="line">    String id;</span><br><span class="line">    String password;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>③.评论(Log)</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="meta">@Data</span></span><br><span class="line"><span class="meta">@NoArgsConstructor</span></span><br><span class="line"><span class="meta">@AllArgsConstructor</span></span><br><span class="line"><span class="keyword">public</span> <span class="keyword">class</span> <span class="title class_">Log</span> &#123;</span><br><span class="line">    <span class="type">int</span> id;</span><br><span class="line">    <span class="type">int</span> lzid;</span><br><span class="line">    String loguser;</span><br><span class="line">    String title;</span><br><span class="line">    String log;</span><br><span class="line"></span><br><span class="line">    <span class="meta">@TableField(fill= FieldFill.INSERT)</span></span><br><span class="line">    Date time;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>④.管理员(Admin)</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="meta">@Data</span></span><br><span class="line"><span class="meta">@NoArgsConstructor</span></span><br><span class="line"><span class="meta">@AllArgsConstructor</span></span><br><span class="line"><span class="keyword">public</span> <span class="keyword">class</span> <span class="title class_">Admin</span> &#123;</span><br><span class="line">    String id;</span><br><span class="line">    String password;</span><br><span class="line">    <span class="type">int</span> level;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p><strong>配置mapper</strong></p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="meta">@Mapper</span></span><br><span class="line"><span class="keyword">public</span> <span class="keyword">interface</span> <span class="title class_">NewsMapper</span> <span class="keyword">extends</span> <span class="title class_">BaseMapper</span>&lt;News&gt; &#123;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="meta">@Mapper</span></span><br><span class="line"><span class="keyword">public</span> <span class="keyword">interface</span> <span class="title class_">LogMapper</span> <span class="keyword">extends</span> <span class="title class_">BaseMapper</span>&lt;Log&gt; &#123;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="meta">@Mapper</span></span><br><span class="line"><span class="keyword">public</span> <span class="keyword">interface</span> <span class="title class_">AdminMapper</span> <span class="keyword">extends</span> <span class="title class_">BaseMapper</span>&lt;Admin&gt; &#123;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="meta">@Mapper</span></span><br><span class="line"><span class="keyword">public</span> <span class="keyword">interface</span> <span class="title class_">UserMapper</span> <span class="keyword">extends</span> <span class="title class_">BaseMapper</span>&lt;User&gt; &#123;</span><br><span class="line"></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h4 id="登录，注册，退出功能"><a href="#登录，注册，退出功能" class="headerlink" title="登录，注册，退出功能"></a>登录，注册，退出功能</h4><p>——LoginController</p>
+<p><strong>用户或管理员登录</strong></p>
+<p><em>不同的角色跳转的页面不同</em>——LoginController</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="meta">@RequestMapping(&quot;/login&quot;)</span></span><br><span class="line">   <span class="keyword">public</span> String <span class="title function_">login</span><span class="params">(<span class="meta">@RequestParam(&quot;username&quot;)</span> String username,</span></span><br><span class="line"><span class="params">                       <span class="meta">@RequestParam(&quot;password&quot;)</span> String password,</span></span><br><span class="line"><span class="params">                       Model model</span></span><br><span class="line"><span class="params">                       ,HttpSession session</span></span><br><span class="line"><span class="params">   )</span> &#123;</span><br><span class="line"></span><br><span class="line">       <span class="comment">//登录实现</span></span><br><span class="line">       <span class="type">User</span> <span class="variable">user</span> <span class="operator">=</span> userMapper.selectById(username);</span><br><span class="line">       <span class="keyword">if</span>(username.equals(<span class="string">&quot;admin&quot;</span>)&amp;&amp;password.equals(<span class="string">&quot;123&quot;</span>))&#123;<span class="comment">//管理员登录</span></span><br><span class="line">           session.setAttribute(<span class="string">&quot;loginUser&quot;</span>, username);</span><br><span class="line">           <span class="keyword">return</span> <span class="string">&quot;redirect:/userlist&quot;</span>;</span><br><span class="line">       &#125;<span class="keyword">else</span> &#123;<span class="comment">//普通用户登录</span></span><br><span class="line">           <span class="keyword">if</span> (user != <span class="literal">null</span>) &#123;</span><br><span class="line">               <span class="keyword">if</span> (password.equals(user.getPassword())) &#123;</span><br><span class="line">                   session.setAttribute(<span class="string">&quot;loginUser&quot;</span>, username);</span><br><span class="line">                   <span class="comment">//登录成功</span></span><br><span class="line">                   <span class="keyword">return</span> <span class="string">&quot;redirect:/Main&quot;</span>;</span><br><span class="line">               &#125; <span class="keyword">else</span> &#123;</span><br><span class="line">                   model.addAttribute(<span class="string">&quot;msg&quot;</span>, <span class="string">&quot;密码错误&quot;</span>);</span><br><span class="line">                   <span class="keyword">return</span> <span class="string">&quot;loginl&quot;</span>;</span><br><span class="line">               &#125;</span><br><span class="line"></span><br><span class="line">           &#125; <span class="keyword">else</span> &#123;</span><br><span class="line">               model.addAttribute(<span class="string">&quot;msg&quot;</span>, <span class="string">&quot;用户不存在&quot;</span>);</span><br><span class="line">               <span class="keyword">return</span> <span class="string">&quot;loginl&quot;</span>;</span><br><span class="line">           &#125;</span><br><span class="line">       &#125;</span><br></pre></td></tr></table></figure>
+
+<p><strong>用户或管理员注册</strong></p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="meta">@RequestMapping(&quot;/rege&quot;)</span></span><br><span class="line"><span class="keyword">public</span> String <span class="title function_">save</span> <span class="params">(User user,Model model)</span>&#123;</span><br><span class="line">    <span class="comment">//添加的操作</span></span><br><span class="line">    <span class="type">User</span> <span class="variable">user233</span> <span class="operator">=</span> userMapper.selectById(user.getId());</span><br><span class="line">    <span class="keyword">if</span> (user.getId().equals(<span class="string">&quot;admin&quot;</span>)) &#123;</span><br><span class="line">        model.addAttribute(<span class="string">&quot;msg&quot;</span>, <span class="string">&quot;不准注册管理员帐号&quot;</span>);</span><br><span class="line">        <span class="keyword">return</span> <span class="string">&quot;register&quot;</span>;</span><br><span class="line">    &#125; <span class="keyword">else</span> &#123;</span><br><span class="line">        <span class="keyword">if</span> (user233 == <span class="literal">null</span>) &#123;</span><br><span class="line">            userMapper.insert(user); <span class="comment">//调用底层业务保存用户</span></span><br><span class="line">            model.addAttribute(<span class="string">&quot;msg&quot;</span>, <span class="string">&quot;注册成功，请返回登录&quot;</span>);</span><br><span class="line">            <span class="keyword">return</span> <span class="string">&quot;loginl&quot;</span>;</span><br><span class="line">        &#125; <span class="keyword">else</span> &#123;</span><br><span class="line"></span><br><span class="line">            model.addAttribute(<span class="string">&quot;msg&quot;</span>, <span class="string">&quot;用户已存在&quot;</span>);</span><br><span class="line">            <span class="keyword">return</span> <span class="string">&quot;register&quot;</span>;</span><br><span class="line"></span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p><strong>用户或管理员登录</strong></p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="meta">@RequestMapping(&quot;/user/logout&quot;)</span></span><br><span class="line"><span class="keyword">public</span> String <span class="title function_">logout</span><span class="params">(HttpSession session)</span>&#123;</span><br><span class="line">    session.invalidate();</span><br><span class="line">    <span class="keyword">return</span> <span class="string">&quot;redirect:/login.html&quot;</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h4 id="用户功能"><a href="#用户功能" class="headerlink" title="用户功能"></a>用户功能</h4><p><strong>查看不同板块帖子</strong></p>
+<p><em>以综合板块和匿名板块为例，综合板块除了匿名板块包括日常，学习，围炉夜话和询问板块</em></p>
+<p>——NewsController</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="meta">@RequestMapping(&quot;/zonghe&quot;)</span></span><br><span class="line">   <span class="keyword">public</span> String <span class="title function_">zonghe</span><span class="params">(Model model</span></span><br><span class="line"><span class="params">           , <span class="meta">@RequestParam(defaultValue = &quot;1&quot;, value = &quot;pageNum&quot;)</span> Integer pageNum</span></span><br><span class="line"><span class="params">           , <span class="meta">@RequestParam(defaultValue = &quot;10&quot;, value = &quot;pageSize&quot;)</span> Integer pageSize)</span>&#123;</span><br><span class="line">       <span class="comment">//实现按照时间倒序输出</span></span><br><span class="line">       QueryWrapper&lt;News&gt; newsQueryWrapper = <span class="keyword">new</span> <span class="title class_">QueryWrapper</span>&lt;&gt;();</span><br><span class="line">       newsQueryWrapper.orderByDesc(<span class="string">&quot;time&quot;</span>);</span><br><span class="line">       newsQueryWrapper.ne(<span class="string">&quot;type&quot;</span>,<span class="string">&quot;匿名&quot;</span>);</span><br><span class="line">       <span class="comment">//分页</span></span><br><span class="line">       PageHelper.startPage(pageNum, pageSize);</span><br><span class="line">       List&lt;News&gt; news = newsMapper.selectList(newsQueryWrapper);</span><br><span class="line">       PageInfo&lt;News&gt; newsPageInfo = <span class="keyword">new</span> <span class="title class_">PageInfo</span>&lt;&gt;(news);</span><br><span class="line">       model.addAttribute(<span class="string">&quot;news&quot;</span>,news);</span><br><span class="line">       model.addAttribute(<span class="string">&quot;pageInfo&quot;</span>, newsPageInfo);</span><br><span class="line">       <span class="keyword">return</span> <span class="string">&quot;News/zonghe&quot;</span>;</span><br><span class="line">   &#125;</span><br></pre></td></tr></table></figure>
+
+<p><em>匿名板块</em></p>
+<p>——NewsController</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="meta">@RequestMapping(&quot;/niming&quot;)</span></span><br><span class="line"><span class="keyword">public</span> String <span class="title function_">niming</span><span class="params">(Model model</span></span><br><span class="line"><span class="params">        , <span class="meta">@RequestParam(defaultValue = &quot;1&quot;, value = &quot;pageNum&quot;)</span> Integer pageNum</span></span><br><span class="line"><span class="params">        , <span class="meta">@RequestParam(defaultValue = &quot;10&quot;, value = &quot;pageSize&quot;)</span> Integer pageSize)</span>&#123;</span><br><span class="line">    <span class="comment">//实现倒序输出</span></span><br><span class="line">    QueryWrapper&lt;News&gt; newsQueryWrapper = <span class="keyword">new</span> <span class="title class_">QueryWrapper</span>&lt;&gt;();</span><br><span class="line">    newsQueryWrapper.orderByDesc(<span class="string">&quot;time&quot;</span>);</span><br><span class="line">    newsQueryWrapper.eq(<span class="string">&quot;type&quot;</span>,<span class="string">&quot;匿名&quot;</span>);</span><br><span class="line">    <span class="comment">//分页</span></span><br><span class="line">    PageHelper.startPage(pageNum, pageSize);</span><br><span class="line">    List&lt;News&gt; news = newsMapper.selectList(newsQueryWrapper);</span><br><span class="line">    PageInfo&lt;News&gt; newsPageInfo = <span class="keyword">new</span> <span class="title class_">PageInfo</span>&lt;&gt;(news);</span><br><span class="line">    model.addAttribute(<span class="string">&quot;news&quot;</span>,news);</span><br><span class="line">    model.addAttribute(<span class="string">&quot;pageInfo&quot;</span>, newsPageInfo);</span><br><span class="line">    <span class="keyword">return</span> <span class="string">&quot;News/niming&quot;</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p><strong>查看帖子详情</strong></p>
+<p>——NewsController</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="meta">@GetMapping(&quot;/news/&#123;id&#125;&quot;)</span></span><br><span class="line"><span class="keyword">public</span> String <span class="title function_">newsshouw</span><span class="params">(<span class="meta">@PathVariable(&quot;id&quot;)</span>String id,Model model)</span>&#123;</span><br><span class="line">    <span class="type">News</span> <span class="variable">newz</span> <span class="operator">=</span> newsMapper.selectById(id);</span><br><span class="line">    HashMap&lt;String, Object&gt; map = <span class="keyword">new</span> <span class="title class_">HashMap</span>&lt;&gt;();</span><br><span class="line">    map.put(<span class="string">&quot;lzid&quot;</span>,id);</span><br><span class="line">    List&lt;Log&gt; logs = logMapper.selectByMap(map);</span><br><span class="line">    model.addAttribute(<span class="string">&quot;logs&quot;</span>,logs);</span><br><span class="line">    model.addAttribute(<span class="string">&quot;news&quot;</span>,newz);</span><br><span class="line">    <span class="keyword">return</span> <span class="string">&quot;News/zshow&quot;</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p><strong>跟帖评论</strong></p>
+<p>——NewsController</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="meta">@RequestMapping(&quot;/newslog&quot;)</span></span><br><span class="line"><span class="keyword">public</span> String <span class="title function_">logsub</span><span class="params">(Log log)</span>&#123;</span><br><span class="line">    <span class="keyword">if</span>(log.getTitle().isEmpty() || log.getLog().isEmpty())&#123;</span><br><span class="line">        <span class="keyword">return</span> <span class="string">&quot;redirect:/news/&quot;</span>+log.getLzid();</span><br><span class="line">    &#125;<span class="keyword">else</span> &#123;</span><br><span class="line">        logMapper.insert(log);</span><br><span class="line">        <span class="keyword">return</span> <span class="string">&quot;redirect:/news/&quot;</span>+log.getLzid();</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p><strong>发布帖子</strong></p>
+<p>——NewsController</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="meta">@RequestMapping(&quot;/newssubmit&quot;)</span></span><br><span class="line"><span class="keyword">public</span> String <span class="title function_">newssub</span><span class="params">(News news,Model model)</span>&#123;</span><br><span class="line">    System.out.println(news);</span><br><span class="line">    <span class="keyword">if</span> (news.getTitle().isEmpty())&#123;</span><br><span class="line">        model.addAttribute(<span class="string">&quot;msg&quot;</span>,<span class="string">&quot;标题写点东西再发布！&quot;</span>);</span><br><span class="line">        <span class="keyword">return</span> <span class="string">&quot;fail&quot;</span>;</span><br><span class="line">    &#125;<span class="keyword">else</span> &#123;</span><br><span class="line"></span><br><span class="line">        newsMapper.insert(news);</span><br><span class="line">        model.addAttribute(<span class="string">&quot;msg&quot;</span>,<span class="string">&quot;发帖成功&quot;</span>);</span><br><span class="line">        <span class="keyword">return</span> <span class="string">&quot;succ&quot;</span>;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p><strong>用户改自己密码</strong></p>
+<p>——UserController</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="meta">@GetMapping(&quot;/useru/&#123;id&#125;&quot;)</span></span><br><span class="line"><span class="keyword">public</span> String <span class="title function_">editu</span><span class="params">(<span class="meta">@PathVariable(&quot;id&quot;)</span>String id,Model model)</span>&#123;</span><br><span class="line">    <span class="comment">//查出原先的数据</span></span><br><span class="line">    <span class="type">User</span> <span class="variable">user</span> <span class="operator">=</span> userMapper.selectById(id);</span><br><span class="line">    model.addAttribute(<span class="string">&quot;user&quot;</span>,user);</span><br><span class="line">    <span class="keyword">return</span> <span class="string">&quot;user/editu&quot;</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h4 id="管理员功能"><a href="#管理员功能" class="headerlink" title="管理员功能"></a>管理员功能</h4><h5 id="用户管理"><a href="#用户管理" class="headerlink" title="用户管理"></a>用户管理</h5><p><strong>1.查找用户</strong></p>
+<p>——UserController</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="meta">@RequestMapping(&quot;/quary&quot;)</span></span><br><span class="line"><span class="keyword">public</span> String <span class="title function_">qula</span><span class="params">(String name,Model model, <span class="meta">@RequestParam(defaultValue = &quot;1&quot;, value = &quot;pageNum&quot;)</span> Integer pageNum, <span class="meta">@RequestParam(defaultValue = &quot;10&quot;, value = &quot;pageSize&quot;)</span> Integer pageSize)</span>&#123;</span><br><span class="line">    QueryWrapper&lt;User&gt; objectQueryWrapper = <span class="keyword">new</span> <span class="title class_">QueryWrapper</span>&lt;&gt;();</span><br><span class="line">    objectQueryWrapper.like(<span class="string">&quot;id&quot;</span>,name);</span><br><span class="line">    PageHelper.startPage(pageNum, pageSize);</span><br><span class="line">    List&lt;User&gt; users = userMapper.selectList(objectQueryWrapper);</span><br><span class="line">    PageInfo&lt;User&gt; pageInfo = <span class="keyword">new</span> <span class="title class_">PageInfo</span>&lt;&gt;(users);</span><br><span class="line">    model.addAttribute(<span class="string">&quot;user&quot;</span>,users);</span><br><span class="line">    model.addAttribute(<span class="string">&quot;name&quot;</span>,name);</span><br><span class="line">    model.addAttribute(<span class="string">&quot;pageInfo&quot;</span>, pageInfo);</span><br><span class="line"></span><br><span class="line">    <span class="keyword">return</span> <span class="string">&quot;user/userlista&quot;</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p><strong>2.显示用户列表</strong></p>
+<p>——UserController</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="meta">@RequestMapping(&quot;/userlist&quot;)</span></span><br><span class="line"><span class="keyword">public</span> String <span class="title function_">userlist</span><span class="params">(Model model, <span class="meta">@RequestParam(defaultValue = &quot;1&quot;, value = &quot;pageNum&quot;)</span> Integer pageNum, <span class="meta">@RequestParam(defaultValue = &quot;10&quot;, value = &quot;pageSize&quot;)</span> Integer pageSize)</span>&#123;</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">    PageHelper.startPage(pageNum, pageSize);</span><br><span class="line">    List&lt;User&gt; users = userMapper.selectList(<span class="literal">null</span>);</span><br><span class="line">    PageInfo&lt;User&gt; pageInfo = <span class="keyword">new</span> <span class="title class_">PageInfo</span>&lt;&gt;(users);</span><br><span class="line"></span><br><span class="line">    model.addAttribute(<span class="string">&quot;user&quot;</span>,users);</span><br><span class="line">    model.addAttribute(<span class="string">&quot;pageInfo&quot;</span>, pageInfo);</span><br><span class="line"></span><br><span class="line">    <span class="keyword">return</span> <span class="string">&quot;user/userlist&quot;</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p><strong>3.维护用户信息</strong></p>
+<p>——UserController</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="meta">@GetMapping(&quot;/user/&#123;id&#125;&quot;)</span></span><br><span class="line"><span class="keyword">public</span> String <span class="title function_">edit</span><span class="params">(<span class="meta">@PathVariable(&quot;id&quot;)</span>String id,Model model)</span>&#123;<span class="comment">//回显用户信息</span></span><br><span class="line">    <span class="comment">//查出原先的数据</span></span><br><span class="line">    <span class="type">User</span> <span class="variable">user</span> <span class="operator">=</span> userMapper.selectById(id);</span><br><span class="line">    model.addAttribute(<span class="string">&quot;user&quot;</span>,user);</span><br><span class="line">    <span class="keyword">return</span> <span class="string">&quot;user/edit&quot;</span>;</span><br><span class="line">&#125;</span><br><span class="line"><span class="meta">@PostMapping(&quot;/edituser&quot;)</span></span><br><span class="line"><span class="keyword">public</span> String <span class="title function_">edit</span><span class="params">(User user)</span>&#123;<span class="comment">//修改信息</span></span><br><span class="line">    userMapper.updateById(user);</span><br><span class="line">    <span class="keyword">return</span> <span class="string">&quot;redirect:/userlist&quot;</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p><strong>4.删除用户</strong></p>
+<p>——UserController</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="meta">@GetMapping(&quot;/userdel/&#123;id&#125;&quot;)</span></span><br><span class="line"><span class="keyword">public</span> String <span class="title function_">del</span><span class="params">(<span class="meta">@PathVariable(&quot;id&quot;)</span>String id)</span>&#123;</span><br><span class="line">    userMapper.deleteById(id);</span><br><span class="line">    <span class="keyword">return</span> <span class="string">&quot;redirect:/userlist&quot;</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h5 id="帖子管理"><a href="#帖子管理" class="headerlink" title="帖子管理"></a>帖子管理</h5><p><strong>1.查找帖子</strong></p>
+<p>——NewsController</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="meta">@RequestMapping(&quot;/quarynew&quot;)</span></span><br><span class="line"><span class="keyword">public</span> String <span class="title function_">qula</span><span class="params">(String name,Model model, <span class="meta">@RequestParam(defaultValue = &quot;1&quot;, value = &quot;pageNum&quot;)</span> Integer pageNum, <span class="meta">@RequestParam(defaultValue = &quot;10&quot;, value = &quot;pageSize&quot;)</span> Integer pageSize)</span>&#123;</span><br><span class="line"></span><br><span class="line">    QueryWrapper&lt;News&gt; objectQueryWrapper = <span class="keyword">new</span> <span class="title class_">QueryWrapper</span>&lt;&gt;();</span><br><span class="line">    objectQueryWrapper.like(<span class="string">&quot;title&quot;</span>,name);</span><br><span class="line"></span><br><span class="line">    PageHelper.startPage(pageNum, pageSize);</span><br><span class="line">    List&lt;News&gt; news = newsMapper.selectList(objectQueryWrapper);</span><br><span class="line">    PageInfo&lt;News&gt; pageInfo = <span class="keyword">new</span> <span class="title class_">PageInfo</span>&lt;&gt;(news);</span><br><span class="line"></span><br><span class="line">    model.addAttribute(<span class="string">&quot;news&quot;</span>,news);</span><br><span class="line">    model.addAttribute(<span class="string">&quot;name&quot;</span>,name);</span><br><span class="line">    model.addAttribute(<span class="string">&quot;pageInfo&quot;</span>, pageInfo);</span><br><span class="line"></span><br><span class="line">    <span class="keyword">return</span> <span class="string">&quot;user/newsb&quot;</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p><strong>2.查看帖子列表</strong></p>
+<p>——NewsController</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="meta">@RequestMapping(&quot;/newsa&quot;)</span></span><br><span class="line"><span class="keyword">public</span> String <span class="title function_">newsa</span><span class="params">(Model model, <span class="meta">@RequestParam(defaultValue = &quot;1&quot;, value = &quot;pageNum&quot;)</span> Integer pageNum, <span class="meta">@RequestParam(defaultValue = &quot;10&quot;, value = &quot;pageSize&quot;)</span> Integer pageSize)</span>&#123;</span><br><span class="line">    PageHelper.startPage(pageNum, pageSize);</span><br><span class="line">    List&lt;News&gt; news = newsMapper.selectList(<span class="literal">null</span>);</span><br><span class="line">    PageInfo&lt;News&gt; pageInfo = <span class="keyword">new</span> <span class="title class_">PageInfo</span>&lt;&gt;(news);</span><br><span class="line"></span><br><span class="line">    model.addAttribute(<span class="string">&quot;news&quot;</span>,news);</span><br><span class="line">    model.addAttribute(<span class="string">&quot;pageInfo&quot;</span>, pageInfo);</span><br><span class="line">    <span class="keyword">return</span> <span class="string">&quot;user/newsa&quot;</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p><strong>3.查看具体帖子以及评论</strong></p>
+<p>——NewsController</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="meta">@GetMapping(&quot;/newsa/&#123;id&#125;&quot;)</span></span><br><span class="line"><span class="keyword">public</span> String <span class="title function_">newsashow</span><span class="params">(<span class="meta">@PathVariable(&quot;id&quot;)</span>String id,Model model)</span>&#123;</span><br><span class="line">    <span class="type">News</span> <span class="variable">newz</span> <span class="operator">=</span> newsMapper.selectById(id);</span><br><span class="line">    HashMap&lt;String, Object&gt; map = <span class="keyword">new</span> <span class="title class_">HashMap</span>&lt;&gt;();</span><br><span class="line">    map.put(<span class="string">&quot;lzid&quot;</span>,id);</span><br><span class="line">    List&lt;Log&gt; logs = logMapper.selectByMap(map);</span><br><span class="line">    model.addAttribute(<span class="string">&quot;logs&quot;</span>,logs);</span><br><span class="line">    model.addAttribute(<span class="string">&quot;news&quot;</span>,newz);</span><br><span class="line">    <span class="keyword">return</span> <span class="string">&quot;user/newsashow&quot;</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p><strong>4.删除帖子</strong></p>
+<p>——NewsController</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="meta">@GetMapping(&quot;/newsadel/&#123;id&#125;&quot;)</span></span><br><span class="line"><span class="keyword">public</span> String <span class="title function_">del</span><span class="params">(<span class="meta">@PathVariable(&quot;id&quot;)</span>String id)</span>&#123;</span><br><span class="line">    newsMapper.deleteById(id);</span><br><span class="line">    HashMap&lt;String, Object&gt; objectObjectHashMap = <span class="keyword">new</span> <span class="title class_">HashMap</span>&lt;&gt;();</span><br><span class="line">    objectObjectHashMap.put(<span class="string">&quot;lzid&quot;</span>,id);</span><br><span class="line">    logMapper.deleteByMap(objectObjectHashMap);</span><br><span class="line">    <span class="keyword">return</span> <span class="string">&quot;redirect:/newsa&quot;</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h3 id="后台管理部分"><a href="#后台管理部分" class="headerlink" title="后台管理部分"></a>后台管理部分</h3><p>管理员有四个身份：总管理，一级审核，二级审核，写手。每个身份登录可以看到不同的界面。</p>
+<h4 id="审核部分"><a href="#审核部分" class="headerlink" title="审核部分"></a>审核部分</h4><p><strong>1.提交新闻</strong> </p>
+<p><em>总管理，一级审核，二级审核，写手都可以发布新闻</em></p>
+<p>——SchoolnewsController</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="meta">@RequestMapping(&quot;/snewspost&quot;)</span></span><br><span class="line"><span class="keyword">public</span> String <span class="title function_">snewpost</span><span class="params">(Schoolnews schoolnews,Model model)</span>&#123;</span><br><span class="line">    <span class="keyword">if</span>(schoolnews.getTitle().isEmpty() || schoolnews.getWord().isEmpty())&#123;</span><br><span class="line">        model.addAttribute(<span class="string">&quot;msg&quot;</span>,<span class="string">&quot;请保证标题或内容不为空。&quot;</span>);</span><br><span class="line">        <span class="keyword">return</span> <span class="string">&quot;admin/postnew&quot;</span>;</span><br><span class="line">    &#125;<span class="keyword">else</span> &#123;</span><br><span class="line">        schoolnewsMapper.insert(schoolnews);</span><br><span class="line">        model.addAttribute(<span class="string">&quot;msg&quot;</span>,<span class="string">&quot;发布成功，您的投稿已进入审核队列。&quot;</span>);</span><br><span class="line">        <span class="keyword">return</span> <span class="string">&quot;admin/postnew&quot;</span>;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p><strong>2.一级审核</strong></p>
+<p><em>只能审核写手写的新闻</em></p>
+<p>——SchoolnewsController</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="meta">@RequestMapping(&quot;/newjud&quot;)</span></span><br><span class="line">   <span class="keyword">public</span> String <span class="title function_">newjud</span><span class="params">(Model model, <span class="meta">@RequestParam(defaultValue = &quot;1&quot;, value = &quot;pageNum&quot;)</span> Integer pageNum, <span class="meta">@RequestParam(defaultValue = &quot;10&quot;, value = &quot;pageSize&quot;)</span> Integer pageSize)</span>&#123;</span><br><span class="line">       QueryWrapper&lt;Schoolnews&gt; newsQueryWrapper = <span class="keyword">new</span> <span class="title class_">QueryWrapper</span>&lt;&gt;();</span><br><span class="line">       newsQueryWrapper.orderByDesc(<span class="string">&quot;id&quot;</span>); </span><br><span class="line">       newsQueryWrapper.gt(<span class="string">&quot;wlevel&quot;</span>,<span class="number">3</span>);<span class="comment">//大于</span></span><br><span class="line">       newsQueryWrapper.eq(<span class="string">&quot;emo&quot;</span>,<span class="number">1</span>);</span><br><span class="line">       PageHelper.startPage(pageNum, pageSize);</span><br><span class="line">       List&lt;Schoolnews&gt; schoolnews = schoolnewsMapper.selectList(newsQueryWrapper);</span><br><span class="line">       PageInfo&lt;Schoolnews&gt; pageInfo = <span class="keyword">new</span> <span class="title class_">PageInfo</span>&lt;&gt;(schoolnews);</span><br><span class="line">       model.addAttribute(<span class="string">&quot;news&quot;</span>,schoolnews);</span><br><span class="line">       model.addAttribute(<span class="string">&quot;pageInfo&quot;</span>, pageInfo);</span><br><span class="line">       <span class="keyword">return</span> <span class="string">&quot;admin/juda&quot;</span>;</span><br><span class="line">   &#125;</span><br></pre></td></tr></table></figure>
+
+<p><strong>3.二级审核</strong></p>
+<p><em>能审核写手和一级审核写的新闻</em></p>
+<p>——SchoolnewsController</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="meta">@RequestMapping(&quot;/newjudb&quot;)</span></span><br><span class="line"><span class="keyword">public</span> String <span class="title function_">newjudb</span><span class="params">(Model model, <span class="meta">@RequestParam(defaultValue = &quot;1&quot;, value = &quot;pageNum&quot;)</span> Integer pageNum, <span class="meta">@RequestParam(defaultValue = &quot;10&quot;, value = &quot;pageSize&quot;)</span> Integer pageSize)</span>&#123;</span><br><span class="line">    <span class="comment">//实现倒序输出</span></span><br><span class="line">    QueryWrapper&lt;Schoolnews&gt; newsQueryWrapper = <span class="keyword">new</span> <span class="title class_">QueryWrapper</span>&lt;&gt;();</span><br><span class="line">    newsQueryWrapper.orderByDesc(<span class="string">&quot;id&quot;</span>);</span><br><span class="line">    <span class="comment">//选择等级为2的</span></span><br><span class="line">    newsQueryWrapper.gt(<span class="string">&quot;wlevel&quot;</span>,<span class="number">2</span>);</span><br><span class="line">    newsQueryWrapper.eq(<span class="string">&quot;emo&quot;</span>,<span class="number">1</span>);</span><br><span class="line">    PageHelper.startPage(pageNum, pageSize);</span><br><span class="line">    List&lt;Schoolnews&gt; schoolnews = schoolnewsMapper.selectList(newsQueryWrapper);</span><br><span class="line">    PageInfo&lt;Schoolnews&gt; pageInfo = <span class="keyword">new</span> <span class="title class_">PageInfo</span>&lt;&gt;(schoolnews);</span><br><span class="line">    model.addAttribute(<span class="string">&quot;news&quot;</span>,schoolnews);</span><br><span class="line">    model.addAttribute(<span class="string">&quot;pageInfo&quot;</span>, pageInfo);</span><br><span class="line">    <span class="keyword">return</span> <span class="string">&quot;admin/judb&quot;</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p><strong>4.三级审核</strong></p>
+<p><em>能审核所有人写的新闻</em></p>
+<p>——SchoolnewsController</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="meta">@RequestMapping(&quot;/newjudd&quot;)</span></span><br><span class="line"><span class="keyword">public</span> String <span class="title function_">newjudc</span><span class="params">(Model model, <span class="meta">@RequestParam(defaultValue = &quot;1&quot;, value = &quot;pageNum&quot;)</span> Integer pageNum, <span class="meta">@RequestParam(defaultValue = &quot;10&quot;, value = &quot;pageSize&quot;)</span> Integer pageSize)</span>&#123;</span><br><span class="line">    <span class="comment">//实现倒序输出</span></span><br><span class="line">    QueryWrapper&lt;Schoolnews&gt; newsQueryWrapper = <span class="keyword">new</span> <span class="title class_">QueryWrapper</span>&lt;&gt;();</span><br><span class="line">    newsQueryWrapper.orderByDesc(<span class="string">&quot;id&quot;</span>);</span><br><span class="line">    <span class="comment">//选择等级为2的</span></span><br><span class="line">    newsQueryWrapper.gt(<span class="string">&quot;wlevel&quot;</span>,<span class="number">1</span>);</span><br><span class="line">    newsQueryWrapper.eq(<span class="string">&quot;emo&quot;</span>,<span class="number">1</span>);</span><br><span class="line">    PageHelper.startPage(pageNum, pageSize);</span><br><span class="line">    List&lt;Schoolnews&gt; schoolnews = schoolnewsMapper.selectList(newsQueryWrapper);</span><br><span class="line">    PageInfo&lt;Schoolnews&gt; pageInfo = <span class="keyword">new</span> <span class="title class_">PageInfo</span>&lt;&gt;(schoolnews);</span><br><span class="line">    model.addAttribute(<span class="string">&quot;news&quot;</span>,schoolnews);</span><br><span class="line">    model.addAttribute(<span class="string">&quot;pageInfo&quot;</span>, pageInfo);</span><br><span class="line">    <span class="keyword">return</span> <span class="string">&quot;admin/judd&quot;</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h4 id="管理部分"><a href="#管理部分" class="headerlink" title="管理部分"></a>管理部分</h4><h5 id="管理员"><a href="#管理员" class="headerlink" title="管理员"></a>管理员</h5><p><strong>显示管理员列表</strong></p>
+<p>——AdminController</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="meta">@RequestMapping(&quot;/adlist&quot;)</span></span><br><span class="line"><span class="keyword">public</span> String <span class="title function_">adlist</span><span class="params">(Model model, <span class="meta">@RequestParam(defaultValue = &quot;1&quot;, value = &quot;pageNum&quot;)</span> Integer pageNum, <span class="meta">@RequestParam(defaultValue = &quot;10&quot;, value = &quot;pageSize&quot;)</span> Integer pageSize)</span>&#123;</span><br><span class="line">    PageHelper.startPage(pageNum, pageSize);</span><br><span class="line">    List&lt;Admin&gt; users = adminMapper.selectList(<span class="literal">null</span>);</span><br><span class="line">    PageInfo&lt;Admin&gt; pageInfo = <span class="keyword">new</span> <span class="title class_">PageInfo</span>&lt;&gt;(users);</span><br><span class="line">    model.addAttribute(<span class="string">&quot;user&quot;</span>,users);</span><br><span class="line">    model.addAttribute(<span class="string">&quot;pageInfo&quot;</span>, pageInfo);</span><br><span class="line">    <span class="keyword">return</span> <span class="string">&quot;admin/adlist&quot;</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p><strong>添加管理员</strong></p>
+<p>——AdminController</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">//前往增加管理员页面 </span></span><br><span class="line"><span class="meta">@RequestMapping(&quot;/addad&quot;)</span></span><br><span class="line"><span class="keyword">public</span> String <span class="title function_">savead</span><span class="params">()</span>&#123;</span><br><span class="line">    <span class="keyword">return</span> <span class="string">&quot;admin/addadmin&quot;</span>;</span><br><span class="line">&#125;</span><br><span class="line"><span class="comment">//接收添加管理员请求</span></span><br><span class="line"><span class="meta">@PostMapping(&quot;/addad&quot;)</span></span><br><span class="line"><span class="keyword">public</span> String <span class="title function_">save</span> <span class="params">(Admin admin,Model model)</span>&#123;</span><br><span class="line">    <span class="comment">//添加的操作</span></span><br><span class="line">    <span class="type">Admin</span> <span class="variable">ad233</span> <span class="operator">=</span> adminMapper.selectById(admin.getId());</span><br><span class="line">    <span class="keyword">if</span> (ad233 != <span class="literal">null</span>)&#123;</span><br><span class="line">        model.addAttribute(<span class="string">&quot;msg&quot;</span>,<span class="string">&quot;该昵称已存在&quot;</span>);</span><br><span class="line">        <span class="keyword">return</span> <span class="string">&quot;admin/addadmin&quot;</span>;</span><br><span class="line">    &#125;<span class="keyword">else</span> &#123;</span><br><span class="line">        <span class="keyword">if</span> (admin.getId().isEmpty() || admin.getPassword().isEmpty())&#123;</span><br><span class="line">            model.addAttribute(<span class="string">&quot;msg&quot;</span>,<span class="string">&quot;昵称和密码不为空&quot;</span>);</span><br><span class="line">            <span class="keyword">return</span> <span class="string">&quot;admin/addadmin&quot;</span>;</span><br><span class="line">        &#125;<span class="keyword">else</span> &#123;</span><br><span class="line"></span><br><span class="line">            System.out.println(<span class="string">&quot;save--&gt;&quot;</span>+admin);</span><br><span class="line">            adminMapper.insert(admin); <span class="comment">//调用底层业务保存员工信息</span></span><br><span class="line">            <span class="keyword">return</span> <span class="string">&quot;redirect:/adlist&quot;</span>;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p><strong>维护管理员</strong></p>
+<p>——AdminController</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">//修改管理员时填的默认值（数据回显） 跳往admin/editad.html</span></span><br><span class="line"><span class="meta">@GetMapping(&quot;/aded/&#123;id&#125;&quot;)</span></span><br><span class="line"><span class="keyword">public</span> String <span class="title function_">edit</span><span class="params">(<span class="meta">@PathVariable(&quot;id&quot;)</span> String id, Model model)</span>&#123;</span><br><span class="line">    <span class="comment">//先查出原来的数据</span></span><br><span class="line">    <span class="type">Admin</span> <span class="variable">admin</span> <span class="operator">=</span> adminMapper.selectById(id);</span><br><span class="line">    model.addAttribute(<span class="string">&quot;user&quot;</span>,admin);</span><br><span class="line">    <span class="keyword">return</span> <span class="string">&quot;admin/editad&quot;</span>;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="meta">@PostMapping(&quot;/edad&quot;)</span></span><br><span class="line"><span class="keyword">public</span> String <span class="title function_">edit</span><span class="params">(Admin admin)</span>&#123;</span><br><span class="line">    adminMapper.updateById(admin);</span><br><span class="line">    <span class="keyword">return</span> <span class="string">&quot;redirect:/adlist&quot;</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p><strong>删除管理员</strong></p>
+<p>——AdminController</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="meta">@GetMapping(&quot;/delad/&#123;id&#125;&quot;)</span></span><br><span class="line"><span class="keyword">public</span> String <span class="title function_">del</span><span class="params">(<span class="meta">@PathVariable(&quot;id&quot;)</span>String id)</span>&#123;</span><br><span class="line">    adminMapper.deleteById(id);</span><br><span class="line">    <span class="keyword">return</span> <span class="string">&quot;redirect:/adlist&quot;</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h5 id="论坛"><a href="#论坛" class="headerlink" title="论坛"></a>论坛</h5><p><strong>显示论坛列表</strong></p>
+<p>——AdminController</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="meta">@RequestMapping(&quot;/newslist&quot;)</span></span><br><span class="line"><span class="keyword">public</span> String <span class="title function_">newsa</span><span class="params">(Model model, <span class="meta">@RequestParam(defaultValue = &quot;1&quot;, value = &quot;pageNum&quot;)</span> Integer pageNum, <span class="meta">@RequestParam(defaultValue = &quot;10&quot;, value = &quot;pageSize&quot;)</span> Integer pageSize)</span>&#123;</span><br><span class="line">    PageHelper.startPage(pageNum, pageSize);</span><br><span class="line">    List&lt;News&gt; news = newsMapper.selectList(<span class="literal">null</span>);</span><br><span class="line">    PageInfo&lt;News&gt; pageInfo = <span class="keyword">new</span> <span class="title class_">PageInfo</span>&lt;&gt;(news);</span><br><span class="line">    model.addAttribute(<span class="string">&quot;news&quot;</span>,news);</span><br><span class="line">    model.addAttribute(<span class="string">&quot;pageInfo&quot;</span>, pageInfo);</span><br><span class="line"></span><br><span class="line">    <span class="keyword">return</span> <span class="string">&quot;admin/newslist&quot;</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p><strong>查看具体帖子</strong></p>
+<p>——AdminController</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="meta">@GetMapping(&quot;/newslist/&#123;id&#125;&quot;)</span></span><br><span class="line"><span class="keyword">public</span> String <span class="title function_">newsashow</span><span class="params">(<span class="meta">@PathVariable(&quot;id&quot;)</span>String id, Model model)</span>&#123;</span><br><span class="line">    <span class="type">News</span> <span class="variable">newz</span> <span class="operator">=</span> newsMapper.selectById(id);</span><br><span class="line">    HashMap&lt;String, Object&gt; map = <span class="keyword">new</span> <span class="title class_">HashMap</span>&lt;&gt;();</span><br><span class="line">    map.put(<span class="string">&quot;lzid&quot;</span>,id);</span><br><span class="line">    List&lt;Log&gt; logs = logMapper.selectByMap(map);</span><br><span class="line">    model.addAttribute(<span class="string">&quot;logs&quot;</span>,logs);</span><br><span class="line">    model.addAttribute(<span class="string">&quot;news&quot;</span>,newz);</span><br><span class="line">    <span class="keyword">return</span> <span class="string">&quot;admin/adnewsshow&quot;</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p><strong>删除帖子</strong></p>
+<p>——AdminController</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="meta">@GetMapping(&quot;/newsqdel/&#123;id&#125;&quot;)</span></span><br><span class="line"><span class="keyword">public</span> String <span class="title function_">delnews</span><span class="params">(<span class="meta">@PathVariable(&quot;id&quot;)</span>String id)</span>&#123;</span><br><span class="line">    newsMapper.deleteById(id);</span><br><span class="line">    HashMap&lt;String, Object&gt; objectObjectHashMap = <span class="keyword">new</span> <span class="title class_">HashMap</span>&lt;&gt;();</span><br><span class="line">    objectObjectHashMap.put(<span class="string">&quot;lzid&quot;</span>,id);</span><br><span class="line">    logMapper.deleteByMap(objectObjectHashMap);</span><br><span class="line">    <span class="keyword">return</span> <span class="string">&quot;redirect:/newslist&quot;</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h5 id="全部新闻"><a href="#全部新闻" class="headerlink" title="全部新闻"></a>全部新闻</h5><p><strong>查看新闻列表</strong></p>
+<p>——SchoolnewsController</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="meta">@RequestMapping(&quot;/listed&quot;)</span></span><br><span class="line"><span class="keyword">public</span> String <span class="title function_">judlists</span><span class="params">(Model model, <span class="meta">@RequestParam(defaultValue = &quot;1&quot;, value = &quot;pageNum&quot;)</span> Integer pageNum, <span class="meta">@RequestParam(defaultValue = &quot;10&quot;, value = &quot;pageSize&quot;)</span> Integer pageSize)</span>&#123;</span><br><span class="line"></span><br><span class="line">    <span class="comment">//实现倒序输出</span></span><br><span class="line">    QueryWrapper&lt;Schoolnews&gt; newsQueryWrapper = <span class="keyword">new</span> <span class="title class_">QueryWrapper</span>&lt;&gt;();</span><br><span class="line">    newsQueryWrapper.orderByDesc(<span class="string">&quot;id&quot;</span>);</span><br><span class="line">    <span class="comment">//选择等级为3的</span></span><br><span class="line">    newsQueryWrapper.ge(<span class="string">&quot;emo&quot;</span>,<span class="number">1</span>);<span class="comment">//大于等于</span></span><br><span class="line">    PageHelper.startPage(pageNum, pageSize);</span><br><span class="line">    List&lt;Schoolnews&gt; schoolnews = schoolnewsMapper.selectList(newsQueryWrapper);</span><br><span class="line">    PageInfo&lt;Schoolnews&gt; pageInfo = <span class="keyword">new</span> <span class="title class_">PageInfo</span>&lt;&gt;(schoolnews);</span><br><span class="line">    model.addAttribute(<span class="string">&quot;news&quot;</span>,schoolnews);</span><br><span class="line">    model.addAttribute(<span class="string">&quot;pageInfo&quot;</span>, pageInfo);</span><br><span class="line">    <span class="keyword">return</span> <span class="string">&quot;admin/judc&quot;</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p><strong>查看具体新闻</strong></p>
+<p>——SchoolnewsController</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="meta">@GetMapping(&quot;/pageshowc/&#123;id&#125;&quot;)</span></span><br><span class="line"><span class="keyword">public</span> String <span class="title function_">pageshouwc</span><span class="params">(<span class="meta">@PathVariable(&quot;id&quot;)</span>String id, Model model)</span>&#123;</span><br><span class="line">    <span class="type">Schoolnews</span> <span class="variable">schoolnews</span> <span class="operator">=</span> schoolnewsMapper.selectById(id);</span><br><span class="line">    model.addAttribute(<span class="string">&quot;news&quot;</span>,schoolnews);</span><br><span class="line">    <span class="keyword">return</span> <span class="string">&quot;admin/pageshowjudc&quot;</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p><strong>删除新闻</strong></p>
+<p>——SchoolnewsController</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="meta">@GetMapping(&quot;/delsnews/&#123;id&#125;&quot;)</span></span><br><span class="line"><span class="keyword">public</span> String <span class="title function_">nessdel</span><span class="params">(<span class="meta">@PathVariable(&quot;id&quot;)</span>String id)</span>&#123;</span><br><span class="line">    schoolnewsMapper.deleteById(id);</span><br><span class="line">    <span class="keyword">return</span> <span class="string">&quot;redirect:/admin&quot;</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h1 id="关键技术总结"><a href="#关键技术总结" class="headerlink" title="关键技术总结"></a>关键技术总结</h1><h2 id="一-Spring-Boot集成Thymeleaf模板引擎"><a href="#一-Spring-Boot集成Thymeleaf模板引擎" class="headerlink" title="一.Spring Boot集成Thymeleaf模板引擎"></a>一.Spring Boot集成Thymeleaf模板引擎</h2><p><strong>Thymeleaf 介绍</strong></p>
+<p>Thymeleaf 是适用于 Web 和独立环境的现代服务器端 Java 模板引擎。Thymeleaf 的主要目标是为您的开发工作流程带来优雅的自然模板 - 可以在浏览器中正确显示的HTML，也可以用作静态原型，从而在开发团队中实现更强大的协作。</p>
+<p><strong>Thymeleaf 使用</strong></p>
+<p>1.导入依赖</p>
+<figure class="highlight xml"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">dependency</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">groupId</span>&gt;</span>org.springframework.boot<span class="tag">&lt;/<span class="name">groupId</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">artifactId</span>&gt;</span>spring-boot-starter-thymeleaf<span class="tag">&lt;/<span class="name">artifactId</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">dependency</span>&gt;</span></span><br></pre></td></tr></table></figure>
+
+<p>2.在 html 页面上如果要使用 thymeleaf 模板</p>
+<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">html</span> <span class="attr">xmlns:th</span>=<span class="string">&quot;http://www.thymeleaf.org&quot;</span>&gt;</span></span><br></pre></td></tr></table></figure>
+
+<p>3.thymeleaf 相关配置</p>
+<p>因为 Thymeleaf 中已经有默认的配置了，我们不需要再对其做过多的配置，有一个需要注意一下，Thymeleaf 默认是开启页面缓存的，所以在开发的时候，需要关闭这个页面缓存，配置如下。</p>
+<figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="attr">spring:</span></span><br><span class="line">  <span class="attr">thymeleaf:</span></span><br><span class="line">    <span class="attr">cache:</span> <span class="literal">false</span> <span class="comment">#关闭缓存</span></span><br></pre></td></tr></table></figure>
+
+<p>4.在 thymeleaf 模板中，使用 <code>th:object=&quot;$&#123;&#125;&quot;</code> 来获取对象信息，然后在表单里面可以有三种方式来获取对象属性。</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">使用 th:value=&quot;*&#123;属性名&#125;&quot;</span><br><span class="line">使用 th:value=&quot;$&#123;对象.属性名&#125;&quot;，对象指的是上面使用 th:object 获取的对象</span><br><span class="line">使用 th:value=&quot;$&#123;对象.get方法&#125;&quot;，对象指的是上面使用 th:object 获取的对象</span><br></pre></td></tr></table></figure>
+
+<p>5.thymeleaf 处理list</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="meta">@GetMapping(&quot;/getList&quot;)</span></span><br><span class="line"><span class="keyword">public</span> String <span class="title function_">getList</span><span class="params">(Model model)</span> &#123;</span><br><span class="line">    <span class="type">Blogger</span> <span class="variable">blogger1</span> <span class="operator">=</span> <span class="keyword">new</span> <span class="title class_">Blogger</span>(<span class="number">1L</span>, <span class="string">&quot;好富帅&quot;</span>, <span class="string">&quot;123456&quot;</span>);</span><br><span class="line">    <span class="type">Blogger</span> <span class="variable">blogger2</span> <span class="operator">=</span> <span class="keyword">new</span> <span class="title class_">Blogger</span>(<span class="number">2L</span>, <span class="string">&quot;达人课&quot;</span>, <span class="string">&quot;123456&quot;</span>);</span><br><span class="line">    List&lt;Blogger&gt; list = <span class="keyword">new</span> <span class="title class_">ArrayList</span>&lt;&gt;();</span><br><span class="line">    list.add(blogger1);</span><br><span class="line">    list.add(blogger2);</span><br><span class="line">    model.addAttribute(<span class="string">&quot;list&quot;</span>, list);</span><br><span class="line">    <span class="keyword">return</span> <span class="string">&quot;list&quot;</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="meta">&lt;!DOCTYPE <span class="keyword">html</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">html</span> <span class="attr">xmlns:th</span>=<span class="string">&quot;http://www.thymeleaf.org&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">html</span> <span class="attr">lang</span>=<span class="string">&quot;en&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">head</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">meta</span> <span class="attr">charset</span>=<span class="string">&quot;UTF-8&quot;</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">title</span>&gt;</span>博主信息<span class="tag">&lt;/<span class="name">title</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">head</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">body</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">form</span> <span class="attr">action</span>=<span class="string">&quot;&quot;</span> <span class="attr">th:each</span>=<span class="string">&quot;blogger : $&#123;list&#125;&quot;</span> &gt;</span></span><br><span class="line">    用户编号：<span class="tag">&lt;<span class="name">input</span> <span class="attr">name</span>=<span class="string">&quot;id&quot;</span> <span class="attr">th:value</span>=<span class="string">&quot;$&#123;blogger.id&#125;&quot;</span>/&gt;</span><span class="tag">&lt;<span class="name">br</span>&gt;</span></span><br><span class="line">    用户姓名：<span class="tag">&lt;<span class="name">input</span> <span class="attr">type</span>=<span class="string">&quot;text&quot;</span> <span class="attr">name</span>=<span class="string">&quot;password&quot;</span> <span class="attr">th:value</span>=<span class="string">&quot;$&#123;blogger.name&#125;&quot;</span>/&gt;</span><span class="tag">&lt;<span class="name">br</span>&gt;</span></span><br><span class="line">    登录密码：<span class="tag">&lt;<span class="name">input</span> <span class="attr">type</span>=<span class="string">&quot;text&quot;</span> <span class="attr">name</span>=<span class="string">&quot;username&quot;</span> <span class="attr">th:value</span>=<span class="string">&quot;$&#123;blogger.getPass()&#125;&quot;</span>/&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">form</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">body</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">html</span>&gt;</span></span><br></pre></td></tr></table></figure>
+
+<p>可以看出，其实和处理单个对象信息差不多，Thymeleaf 使用 th:each 进行遍历，${} 取 model 中传过来的参数，然后自定义 list 中取出来的每个对象，这里定义为 blogger。表单里面可以直接使用 ${对象.属性名} 来获取 list 中对象的属性值，也可以使用 ${对象.get方法} 来获取，这点和上面处理对象信息是一样的，但是不能使用 *{属性名} 来获取对象中的属性，thymeleaf 模板获取不到。</p>
+<h2 id="二-MybatisPlus"><a href="#二-MybatisPlus" class="headerlink" title="二.MybatisPlus"></a>二.MybatisPlus</h2><h3 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h3><p><strong>概述：</strong></p>
+<p>MyBatis-Plus （简称 MP）是一个 MyBatis 的增强工具，在 MyBatis 的基础上只做增强不做改变，为简化开发、提高效率而生。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606153529568.png"></p>
+<p><strong>MybatisPlus特性：</strong></p>
+<p>-<br>  无侵入：只做增强不做改变，引入它不会对现有工程产生影响，如丝般顺滑</p>
+<ul>
+<li>损耗小：启动即会自动注入基本 CURD，性能基本无损耗，直接面向对象操作</li>
+<li>强大的 CRUD 操作：内置通用 Mapper、通用 Service，仅仅通过少量配置即可实现单表大部分 CRUD 操作，更有强大的条件构造器，满足各类使用需求</li>
+<li>支持 Lambda 形式调用：通过 Lambda 表达式，方便的编写各类查询条件，无需再担心字段写错</li>
+<li>支持主键自动生成：支持多达 4 种主键策略（内含分布式唯一 ID 生成器 - Sequence），可自由配置，完美解决主键问题</li>
+<li>支持 ActiveRecord 模式：支持 ActiveRecord 形式调用，实体类只需继承 Model 类即可进行强大的 CRUD 操作</li>
+<li>支持自定义全局通用操作：支持全局通用方法注入（ Write once, use anywhere ）</li>
+<li>内置代码生成器：采用代码或者 Maven 插件可快速生成 Mapper 、 Model 、 Service 、 Controller 层代码，支持模板引擎，更有超多自定义配置等您来使用</li>
+<li>内置分页插件：基于 MyBatis 物理分页，开发者无需关心具体操作，配置好插件之后，写分页等同于普通 List 查询</li>
+<li>分页插件支持多种数据库：支持 MySQL、MariaDB、Oracle、DB2、H2、HSQL、SQLite、Postgre、SQLServer 等多种数据库</li>
+<li>内置性能分析插件：可输出 Sql 语句以及其执行时间，建议开发测试时启用该功能，能快速揪出慢查询</li>
+<li>内置全局拦截插件：提供全表 delete 、 update 操作智能分析阻断，也可自定义拦截规则，预防误操作</li>
+</ul>
+<h3 id="使用"><a href="#使用" class="headerlink" title="使用"></a>使用</h3><p>1.创建数据库并创建对应的实体类</p>
+<p>2.导入依赖</p>
+<figure class="highlight xml"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">dependencies</span>&gt;</span></span><br><span class="line">        <span class="tag">&lt;<span class="name">dependency</span>&gt;</span></span><br><span class="line">            <span class="tag">&lt;<span class="name">groupId</span>&gt;</span>log4j<span class="tag">&lt;/<span class="name">groupId</span>&gt;</span></span><br><span class="line">            <span class="tag">&lt;<span class="name">artifactId</span>&gt;</span>log4j<span class="tag">&lt;/<span class="name">artifactId</span>&gt;</span></span><br><span class="line">            <span class="tag">&lt;<span class="name">version</span>&gt;</span>1.2.17<span class="tag">&lt;/<span class="name">version</span>&gt;</span></span><br><span class="line">        <span class="tag">&lt;/<span class="name">dependency</span>&gt;</span></span><br><span class="line"></span><br><span class="line">        <span class="tag">&lt;<span class="name">dependency</span>&gt;</span></span><br><span class="line">            <span class="tag">&lt;<span class="name">groupId</span>&gt;</span>mysql<span class="tag">&lt;/<span class="name">groupId</span>&gt;</span></span><br><span class="line">            <span class="tag">&lt;<span class="name">artifactId</span>&gt;</span>mysql-connector-java<span class="tag">&lt;/<span class="name">artifactId</span>&gt;</span></span><br><span class="line">            <span class="tag">&lt;<span class="name">version</span>&gt;</span>8.0.16<span class="tag">&lt;/<span class="name">version</span>&gt;</span></span><br><span class="line">        <span class="tag">&lt;/<span class="name">dependency</span>&gt;</span></span><br><span class="line"></span><br><span class="line">        <span class="comment">&lt;!--MybatisPlus--&gt;</span></span><br><span class="line">        <span class="tag">&lt;<span class="name">dependency</span>&gt;</span></span><br><span class="line">            <span class="tag">&lt;<span class="name">groupId</span>&gt;</span>org.springframework.boot<span class="tag">&lt;/<span class="name">groupId</span>&gt;</span></span><br><span class="line">            <span class="tag">&lt;<span class="name">artifactId</span>&gt;</span>spring-boot-starter<span class="tag">&lt;/<span class="name">artifactId</span>&gt;</span></span><br><span class="line">        <span class="tag">&lt;/<span class="name">dependency</span>&gt;</span></span><br><span class="line">        <span class="tag">&lt;<span class="name">dependency</span>&gt;</span></span><br><span class="line">            <span class="tag">&lt;<span class="name">groupId</span>&gt;</span>org.springframework.boot<span class="tag">&lt;/<span class="name">groupId</span>&gt;</span></span><br><span class="line">            <span class="tag">&lt;<span class="name">artifactId</span>&gt;</span>spring-boot-starter-test<span class="tag">&lt;/<span class="name">artifactId</span>&gt;</span></span><br><span class="line">            <span class="tag">&lt;<span class="name">scope</span>&gt;</span>test<span class="tag">&lt;/<span class="name">scope</span>&gt;</span></span><br><span class="line">        <span class="tag">&lt;/<span class="name">dependency</span>&gt;</span></span><br><span class="line">        <span class="tag">&lt;<span class="name">dependency</span>&gt;</span></span><br><span class="line">            <span class="tag">&lt;<span class="name">groupId</span>&gt;</span>org.projectlombok<span class="tag">&lt;/<span class="name">groupId</span>&gt;</span></span><br><span class="line">            <span class="tag">&lt;<span class="name">artifactId</span>&gt;</span>lombok<span class="tag">&lt;/<span class="name">artifactId</span>&gt;</span></span><br><span class="line">            <span class="tag">&lt;<span class="name">optional</span>&gt;</span>true<span class="tag">&lt;/<span class="name">optional</span>&gt;</span></span><br><span class="line">        <span class="tag">&lt;/<span class="name">dependency</span>&gt;</span></span><br><span class="line">        <span class="tag">&lt;<span class="name">dependency</span>&gt;</span></span><br><span class="line">            <span class="tag">&lt;<span class="name">groupId</span>&gt;</span>com.baomidou<span class="tag">&lt;/<span class="name">groupId</span>&gt;</span></span><br><span class="line">            <span class="tag">&lt;<span class="name">artifactId</span>&gt;</span>mybatis-plus-boot-starter<span class="tag">&lt;/<span class="name">artifactId</span>&gt;</span></span><br><span class="line">            <span class="tag">&lt;<span class="name">version</span>&gt;</span>3.4.0<span class="tag">&lt;/<span class="name">version</span>&gt;</span></span><br><span class="line">        <span class="tag">&lt;/<span class="name">dependency</span>&gt;</span></span><br><span class="line">        <span class="tag">&lt;<span class="name">dependency</span>&gt;</span></span><br><span class="line">            <span class="tag">&lt;<span class="name">groupId</span>&gt;</span>com.h2database<span class="tag">&lt;/<span class="name">groupId</span>&gt;</span></span><br><span class="line">            <span class="tag">&lt;<span class="name">artifactId</span>&gt;</span>h2<span class="tag">&lt;/<span class="name">artifactId</span>&gt;</span></span><br><span class="line">            <span class="tag">&lt;<span class="name">scope</span>&gt;</span>runtime<span class="tag">&lt;/<span class="name">scope</span>&gt;</span></span><br><span class="line">        <span class="tag">&lt;/<span class="name">dependency</span>&gt;</span></span><br><span class="line"></span><br><span class="line">        <span class="tag">&lt;<span class="name">dependency</span>&gt;</span></span><br><span class="line">            <span class="tag">&lt;<span class="name">groupId</span>&gt;</span>org.springframework.boot<span class="tag">&lt;/<span class="name">groupId</span>&gt;</span></span><br><span class="line">            <span class="tag">&lt;<span class="name">artifactId</span>&gt;</span>spring-boot-starter<span class="tag">&lt;/<span class="name">artifactId</span>&gt;</span></span><br><span class="line">        <span class="tag">&lt;/<span class="name">dependency</span>&gt;</span></span><br><span class="line"></span><br><span class="line">        <span class="tag">&lt;<span class="name">dependency</span>&gt;</span></span><br><span class="line">            <span class="tag">&lt;<span class="name">groupId</span>&gt;</span>org.springframework.boot<span class="tag">&lt;/<span class="name">groupId</span>&gt;</span></span><br><span class="line">            <span class="tag">&lt;<span class="name">artifactId</span>&gt;</span>spring-boot-starter-test<span class="tag">&lt;/<span class="name">artifactId</span>&gt;</span></span><br><span class="line">            <span class="tag">&lt;<span class="name">scope</span>&gt;</span>test<span class="tag">&lt;/<span class="name">scope</span>&gt;</span></span><br><span class="line">            <span class="tag">&lt;<span class="name">exclusions</span>&gt;</span></span><br><span class="line">                <span class="tag">&lt;<span class="name">exclusion</span>&gt;</span></span><br><span class="line">                    <span class="tag">&lt;<span class="name">groupId</span>&gt;</span>org.junit.vintage<span class="tag">&lt;/<span class="name">groupId</span>&gt;</span></span><br><span class="line">                    <span class="tag">&lt;<span class="name">artifactId</span>&gt;</span>junit-vintage-engine<span class="tag">&lt;/<span class="name">artifactId</span>&gt;</span></span><br><span class="line">                <span class="tag">&lt;/<span class="name">exclusion</span>&gt;</span></span><br><span class="line">            <span class="tag">&lt;/<span class="name">exclusions</span>&gt;</span></span><br><span class="line">        <span class="tag">&lt;/<span class="name">dependency</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;/<span class="name">dependencies</span>&gt;</span></span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+<p>3.配置配置文件</p>
+<figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="attr">datasource:</span></span><br><span class="line">  <span class="attr">username:</span> <span class="string">root</span></span><br><span class="line">  <span class="attr">password:</span> <span class="string">root</span></span><br><span class="line">  <span class="attr">url:</span> <span class="string">jdbc:mysql://localhost:3306/hello?useUnicode=true&amp;characterEncoding=utf-8</span></span><br><span class="line">  <span class="attr">driver-class-name:</span> <span class="string">com.mysql.jdbc.Driver</span></span><br></pre></td></tr></table></figure>
+
+<p>或</p>
+<figure class="highlight properties"><table><tr><td class="code"><pre><span class="line"><span class="attr">spring.datasource.username</span>=<span class="string">root</span></span><br><span class="line"><span class="attr">spring.datasource.password</span>=<span class="string">root</span></span><br><span class="line"><span class="attr">spring.datasource.url</span>=<span class="string">jdbc:mysql://localhost:3306/hello?useUnicode=true&amp;characterEncoding=utf-8</span></span><br><span class="line"><span class="attr">spring.datasource.driver-class-name</span>=<span class="string">com.mysql.jdbc.Driver</span></span><br></pre></td></tr></table></figure>
+
+<p>4.建立mapper并在主启动类上添加包扫描注解</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="meta">@Mapper</span></span><br><span class="line"><span class="keyword">public</span> <span class="keyword">interface</span> <span class="title class_">UserMapper</span> <span class="keyword">extends</span> <span class="title class_">BaseMapper</span>&lt;User&gt; &#123;</span><br><span class="line"></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>5.配置日志输出</p>
+<figure class="highlight properties"><table><tr><td class="code"><pre><span class="line"><span class="comment">#配置日志</span></span><br><span class="line"><span class="attr">mybatis-plus.configuration.log-impl</span>=<span class="string">org.apache.ibatis.logging.stdout.StdOutImpl</span></span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+<h3 id="条件构造器Wrapper方法"><a href="#条件构造器Wrapper方法" class="headerlink" title="条件构造器Wrapper方法"></a>条件构造器Wrapper方法</h3><ul>
+<li>gt：大于，ge：大于等于，lt：小于，le：小于等于</li>
+<li>eq：等于，ne：不等于</li>
+<li>between：在值1和值2之间，notBetween：不在值1和值2之间</li>
+<li>like：’%值%’，notLike：’%值%’，likeLeft：’%值’，likeRight：’值%’</li>
+<li>isNull：字段 IS NULL，isNotNull：字段 IS NOT NULL</li>
+<li>in：字段 IN (v0, v1, …)，notIn：字段 NOT IN (value.get(0), value.get(1), …)</li>
+<li>主动调用or表示紧接着下一个方法不是用and连接!(不调用or则默认为使用and连接)</li>
+<li>orderByAsc：升序：ORDER BY 字段, … ASC，orderByDesc：降序：ORDER BY 字段, … DESC</li>
+<li>inSql：字段 IN ( sql语句 )，notInSql：字段 NOT IN ( sql语句 )</li>
+<li>exists：拼接 EXISTS ( sql语句 )，notExists：拼接 NOT EXISTS ( sql语句 )</li>
+</ul>
+<h3 id="使用代码生成器"><a href="#使用代码生成器" class="headerlink" title="使用代码生成器"></a>使用代码生成器</h3><p><strong>代码生成器简介</strong></p>
+<p>AutoGenerator 是 MyBatis-Plus 的代码生成器，通过 AutoGenerator 可以快速生成 Entity、Mapper、Mapper XML、Service、Controller 等各个模块的代码，极大的提升了开发效率。</p>
+<p><strong>代码生成器配置</strong></p>
+<p><strong>添加依赖</strong></p>
+<figure class="highlight xml"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">dependency</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">groupId</span>&gt;</span>com.baomidou<span class="tag">&lt;/<span class="name">groupId</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">artifactId</span>&gt;</span>mybatis-plus-generator<span class="tag">&lt;/<span class="name">artifactId</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">version</span>&gt;</span>3.4.0<span class="tag">&lt;/<span class="name">version</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">dependency</span>&gt;</span></span><br><span class="line"></span><br><span class="line"><span class="tag">&lt;<span class="name">dependency</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">groupId</span>&gt;</span>org.apache.velocity<span class="tag">&lt;/<span class="name">groupId</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">artifactId</span>&gt;</span>velocity-engine-core<span class="tag">&lt;/<span class="name">artifactId</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">version</span>&gt;</span>2.2<span class="tag">&lt;/<span class="name">version</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">dependency</span>&gt;</span></span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+<p><strong>编写配置</strong></p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="keyword">class</span> <span class="title class_">CodeGenerator</span> &#123;</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title function_">main</span><span class="params">(String[] args)</span> &#123;</span><br><span class="line">        <span class="comment">//创建代码生成器</span></span><br><span class="line">        <span class="type">AutoGenerator</span> <span class="variable">mpg</span> <span class="operator">=</span> <span class="keyword">new</span> <span class="title class_">AutoGenerator</span>();</span><br><span class="line"></span><br><span class="line">        <span class="comment">//全局配置</span></span><br><span class="line">        <span class="type">GlobalConfig</span> <span class="variable">gc</span> <span class="operator">=</span> <span class="keyword">new</span> <span class="title class_">GlobalConfig</span>();</span><br><span class="line">        <span class="comment">//获取当前系统目录</span></span><br><span class="line">        <span class="type">String</span> <span class="variable">projectPath</span> <span class="operator">=</span> System.getProperty(<span class="string">&quot;user.dir&quot;</span>);</span><br><span class="line">        </span><br><span class="line">        gc.setOutputDir(projectPath + <span class="string">&quot;/src/main/java&quot;</span>);</span><br><span class="line">        gc.setAuthor(<span class="string">&quot;dong&quot;</span>);  <span class="comment">//生成作者注释</span></span><br><span class="line">        gc.setOpen(<span class="literal">false</span>); <span class="comment">//生成后是否打开资源管理器</span></span><br><span class="line">        gc.setFileOverride(<span class="literal">false</span>); <span class="comment">//重新生成时文件是否覆盖</span></span><br><span class="line">        gc.setServiceName(<span class="string">&quot;%sService&quot;</span>); <span class="comment">//去掉Service接口的首字母I</span></span><br><span class="line">        gc.setIdType(IdType.ID_WORKER); <span class="comment">//主键策略</span></span><br><span class="line">        gc.setDateType(DateType.ONLY_DATE);<span class="comment">//定义生成的实体类中日期类型</span></span><br><span class="line">        gc.setSwagger2(<span class="literal">false</span>);<span class="comment">//开启Swagger2模式</span></span><br><span class="line"></span><br><span class="line">        mpg.setGlobalConfig(gc);</span><br><span class="line"></span><br><span class="line">        <span class="comment">// 3、数据源配置</span></span><br><span class="line">        <span class="type">DataSourceConfig</span> <span class="variable">dsc</span> <span class="operator">=</span> <span class="keyword">new</span> <span class="title class_">DataSourceConfig</span>();</span><br><span class="line">        dsc.setUrl(<span class="string">&quot;jdbc:mysql://localhost:3306/mp?serverTimezone=GMT%2B8&quot;</span>);  <span class="comment">//url</span></span><br><span class="line">        dsc.setDriverName(<span class="string">&quot;com.mysql.cj.jdbc.Driver&quot;</span>);  <span class="comment">//数据库驱动</span></span><br><span class="line">        dsc.setUsername(<span class="string">&quot;root&quot;</span>);  <span class="comment">//数据库账号</span></span><br><span class="line">        dsc.setPassword(<span class="string">&quot;root&quot;</span>);  <span class="comment">//数据库密码</span></span><br><span class="line">        dsc.setDbType(DbType.MYSQL);  <span class="comment">//数据库类型</span></span><br><span class="line">        mpg.setDataSource(dsc);</span><br><span class="line"></span><br><span class="line">        <span class="comment">// 4、包配置</span></span><br><span class="line">        <span class="type">PackageConfig</span> <span class="variable">pc</span> <span class="operator">=</span> <span class="keyword">new</span> <span class="title class_">PackageConfig</span>();</span><br><span class="line">        pc.setModuleName(<span class="string">&quot;test&quot;</span>); <span class="comment">//模块名,可以不设置</span></span><br><span class="line">        pc.setParent(<span class="string">&quot;cn.dong&quot;</span>);  <span class="comment">//放在哪个包下</span></span><br><span class="line">        pc.setController(<span class="string">&quot;controller&quot;</span>);</span><br><span class="line">        pc.setEntity(<span class="string">&quot;entity&quot;</span>);</span><br><span class="line">        pc.setService(<span class="string">&quot;service&quot;</span>);</span><br><span class="line">        pc.setMapper(<span class="string">&quot;mapper&quot;</span>);</span><br><span class="line">        mpg.setPackageInfo(pc);</span><br><span class="line"></span><br><span class="line">        <span class="comment">// 5、策略配置</span></span><br><span class="line">        <span class="type">StrategyConfig</span> <span class="variable">strategy</span> <span class="operator">=</span> <span class="keyword">new</span> <span class="title class_">StrategyConfig</span>();</span><br><span class="line">        strategy.setInclude(<span class="string">&quot;employee&quot;</span>);<span class="comment">//对哪一张表生成代码</span></span><br><span class="line">        strategy.setNaming(NamingStrategy.underline_to_camel);<span class="comment">//数据库表映射到实体的命名策略</span></span><br><span class="line">        strategy.setTablePrefix(pc.getModuleName() + <span class="string">&quot;_&quot;</span>); <span class="comment">//生成实体时去掉表前缀</span></span><br><span class="line"></span><br><span class="line">        strategy.setLogicDeleteFieldName(<span class="string">&quot;deleted&quot;</span>); <span class="comment">//逻辑删除字段设置</span></span><br><span class="line"></span><br><span class="line">        strategy.setColumnNaming(NamingStrategy.underline_to_camel);<span class="comment">//数据库表字段映射到实体的命名策略</span></span><br><span class="line">        strategy.setEntityLombokModel(<span class="literal">true</span>); <span class="comment">// lombok 模型 @Accessors(chain = true) setter链式操作</span></span><br><span class="line"></span><br><span class="line">        strategy.setControllerMappingHyphenStyle(<span class="literal">true</span>); <span class="comment">//url中驼峰转连字符</span></span><br><span class="line">        mpg.setStrategy(strategy);</span><br><span class="line"></span><br><span class="line">        <span class="comment">//执行</span></span><br><span class="line">        mpg.execute();</span><br><span class="line"></span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+
+
+<h1 id="页面展示"><a href="#页面展示" class="headerlink" title="页面展示"></a>页面展示</h1><p><em>项目首页</em></p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230605212729213.png" alt="image-20230605212729213"></p>
+<h2 id="新闻页面"><a href="#新闻页面" class="headerlink" title="新闻页面"></a>新闻页面</h2><p><em>新闻主页</em></p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230605212855426.png" alt="image-20230605212855426"></p>
+<p><em>新闻页面</em></p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230605215117723.png" alt="image-20230605215117723"></p>
+<p><em>查看所有新闻</em></p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230605215204969.png" alt="image-20230605215204969"></p>
+<h2 id="论坛页面"><a href="#论坛页面" class="headerlink" title="论坛页面"></a>论坛页面</h2><p><em>论坛登录</em></p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230605215518012.png" alt="image-20230605215518012"></p>
+<p><em>论坛注册</em></p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230605215555453.png" alt="image-20230605215555453"></p>
+<p><em>论坛主页（用户登录）</em></p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230605215650590.png" alt="image-20230605215650590"></p>
+<p><em>查看论坛</em></p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230605215743006.png" alt="image-20230605215743006"></p>
+<p><em>发表问题</em></p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230605220415211.png" alt="image-20230605220415211"></p>
+<p><em>追加评论</em></p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230605220457928.png" alt="image-20230605220457928"></p>
+<p><em>用户自行修改密码</em></p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230605215825152.png" alt="image-20230605215825152"></p>
+<p><em>论坛主页（管理员登录）</em></p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230605221437129.png" alt="image-20230605221437129"></p>
+<p><em>新闻管理</em></p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230605221628864.png" alt="image-20230605221628864"></p>
+<h2 id="后台页面"><a href="#后台页面" class="headerlink" title="后台页面"></a>后台页面</h2><p><em>后台管理登录</em></p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230605221728184.png" alt="image-20230605221728184"></p>
+<p><em>写手页面</em></p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230605221825227.png" alt="image-20230605221825227"></p>
+<p><em>一级审核</em></p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230605222248233.png" alt="image-20230605222248233"></p>
+<p><em>二级审核</em></p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230605222332608.png" alt="image-20230605222332608"></p>
+<p><em>总管理</em></p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230605223024252.png" alt="image-20230605223024252"></p>
+<p><em>管理员列表</em></p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230605223055965.png" alt="image-20230605223055965"></p>
+<p><em>维护管理员</em></p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230605223123239.png" alt="image-20230605223123239"></p>
+<p><em>论坛维护</em></p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230605223235496.png" alt="image-20230605223235496"></p>
+<p><em>已发布主页新闻维护页面</em></p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230605223342105.png" alt="image-20230605223342105"></p>
+]]></content>
+      <categories>
+        <category>项目实战</category>
+        <category>经验分享</category>
+      </categories>
+      <tags>
+        <tag>java</tag>
+        <tag>ssm</tag>
+        <tag>MyBatis-Puls</tag>
+        <tag>SpringBoot</tag>
+      </tags>
   </entry>
   <entry>
     <title>校园新闻发布系统</title>
