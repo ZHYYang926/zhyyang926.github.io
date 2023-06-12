@@ -42,45 +42,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>使用vercel加速自己的网站，并绑定自定义域名</title>
-    <url>/2023/05/28/%E4%BD%BF%E7%94%A8vercel%E5%8A%A0%E9%80%9F%E8%87%AA%E5%B7%B1%E7%9A%84%E7%BD%91%E7%AB%99/</url>
-    <content><![CDATA[<p>1.注册一个vercel账号</p>
-<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230528143648651.png" alt="image-20230528143648651"></p>
-<p>官方网站：<a href="https://vercel.com/">New Project – Vercel</a>，注册比较简单，国内用户也能注册，如果手机号收不到短信可以换个手机号试试。注册完成后就是如下界面：</p>
-<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230528130001514.png" alt="image-20230528130001514"></p>
-<p>2.选择添加一个Github账户</p>
-<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230528130553193.png" alt="image-20230528130553193"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230528130622175.png" alt="image-20230528130622175"></p>
-<p>3.它可以自动的识别我们的项目，然后导入我们的项目</p>
-<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230528130653660.png" alt="image-20230528130653660"></p>
-<p>4.点击deploy</p>
-<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230528130743598.png" alt="image-20230528130743598"></p>
-<p>如下就成功了</p>
-<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230528130827222.png" alt="image-20230528130827222"></p>
-<p>5.进入控制面板</p>
-<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230528130900023.png" alt="image-20230528130900023"></p>
-<p>可以访问默认域名（前提是需要XX上网，因为刚不久已经被墙了）</p>
-<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230528131122117.png" alt="image-20230528131122117"></p>
-<p>6.我们选择绑定自定义域名</p>
-<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230528131209024.png" alt="image-20230528131209024"></p>
-<p>7.输入自己购买的域名</p>
-<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230528133224647.png" alt="image-20230528133224647"></p>
-<p>8.选项随便选，我选择默认的第一个。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230528133253184.png" alt="image-20230528133253184"></p>
-<p>9.然后vercel要求我们添加解析记录</p>
-<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230528141802111.png" alt="image-20230528141802111"></p>
-<p>10.去我们自己的域名解析平台添加记录</p>
-<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230528141941154.png" alt="image-20230528141941154"></p>
-<p>11.按照vercel要求的信息填写</p>
-<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230528142124144.png" alt="image-20230528142124144"></p>
-<p>12.等待1分钟就可以访问了</p>
-<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230528142512870.png" alt="image-20230528142512870"></p>
-]]></content>
-      <tags>
-        <tag>经验分享</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>使用hexo+GitHub搭建个人博客</title>
     <url>/2023/05/26/%E4%BD%BF%E7%94%A8hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
     <content><![CDATA[<h1 id="环境搭建"><a href="#环境搭建" class="headerlink" title="环境搭建"></a>环境搭建</h1><h2 id="1-安装Node-js"><a href="#1-安装Node-js" class="headerlink" title="1.安装Node.js"></a>1.安装Node.js</h2><p><em>这个最容易出现问题，而且出错了非常难搞，尽量避免踩坑</em></p>
@@ -156,6 +117,45 @@
       <tags>
         <tag>hexo</tag>
         <tag>Github</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>使用vercel加速自己的网站，并绑定自定义域名</title>
+    <url>/2023/05/28/%E4%BD%BF%E7%94%A8vercel%E5%8A%A0%E9%80%9F%E8%87%AA%E5%B7%B1%E7%9A%84%E7%BD%91%E7%AB%99/</url>
+    <content><![CDATA[<p>1.注册一个vercel账号</p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230528143648651.png" alt="image-20230528143648651"></p>
+<p>官方网站：<a href="https://vercel.com/">New Project – Vercel</a>，注册比较简单，国内用户也能注册，如果手机号收不到短信可以换个手机号试试。注册完成后就是如下界面：</p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230528130001514.png" alt="image-20230528130001514"></p>
+<p>2.选择添加一个Github账户</p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230528130553193.png" alt="image-20230528130553193"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230528130622175.png" alt="image-20230528130622175"></p>
+<p>3.它可以自动的识别我们的项目，然后导入我们的项目</p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230528130653660.png" alt="image-20230528130653660"></p>
+<p>4.点击deploy</p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230528130743598.png" alt="image-20230528130743598"></p>
+<p>如下就成功了</p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230528130827222.png" alt="image-20230528130827222"></p>
+<p>5.进入控制面板</p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230528130900023.png" alt="image-20230528130900023"></p>
+<p>可以访问默认域名（前提是需要XX上网，因为刚不久已经被墙了）</p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230528131122117.png" alt="image-20230528131122117"></p>
+<p>6.我们选择绑定自定义域名</p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230528131209024.png" alt="image-20230528131209024"></p>
+<p>7.输入自己购买的域名</p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230528133224647.png" alt="image-20230528133224647"></p>
+<p>8.选项随便选，我选择默认的第一个。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230528133253184.png" alt="image-20230528133253184"></p>
+<p>9.然后vercel要求我们添加解析记录</p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230528141802111.png" alt="image-20230528141802111"></p>
+<p>10.去我们自己的域名解析平台添加记录</p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230528141941154.png" alt="image-20230528141941154"></p>
+<p>11.按照vercel要求的信息填写</p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230528142124144.png" alt="image-20230528142124144"></p>
+<p>12.等待1分钟就可以访问了</p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230528142512870.png" alt="image-20230528142512870"></p>
+]]></content>
+      <tags>
+        <tag>经验分享</tag>
       </tags>
   </entry>
   <entry>
