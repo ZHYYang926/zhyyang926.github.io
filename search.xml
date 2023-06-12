@@ -191,31 +191,6 @@
       </tags>
   </entry>
   <entry>
-    <title>本站特色功能一览</title>
-    <url>/2023/05/28/%E6%9C%AC%E7%AB%99%E7%89%B9%E8%89%B2%E5%8A%9F%E8%83%BD/</url>
-    <content><![CDATA[<hr>
-<h1 id="一-导航栏"><a href="#一-导航栏" class="headerlink" title="一.导航栏"></a>一.导航栏</h1><h2 id="1-搜索功能"><a href="#1-搜索功能" class="headerlink" title="1.搜索功能"></a>1.搜索功能</h2><p>可以通过搜索框进行全站搜索，如文章，图片，关键字。。。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606161452743.png" alt="image-20230606161452743"></p>
-<h2 id="2-分类查询"><a href="#2-分类查询" class="headerlink" title="2.分类查询"></a>2.分类查询</h2><p>按照标签，时间，分类查询</p>
-<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606161905413.png" alt="image-20230606161905413"></p>
-<h2 id="3-照片墙"><a href="#3-照片墙" class="headerlink" title="3.照片墙"></a>3.照片墙</h2><p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606161619500.png" alt="image-20230606161619500"></p>
-<h2 id="4-留言板"><a href="#4-留言板" class="headerlink" title="4.留言板"></a>4.留言板</h2><p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606161702524.png" alt="image-20230606161702524"></p>
-<h2 id="5-评论区"><a href="#5-评论区" class="headerlink" title="5.评论区"></a>5.评论区</h2><p>需要登录才可以评论</p>
-<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606161726164.png" alt="image-20230606161726164"></p>
-<h2 id="6-说说——记录日常生活"><a href="#6-说说——记录日常生活" class="headerlink" title="6.说说——记录日常生活"></a>6.说说——记录日常生活</h2><p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606162744702.png" alt="image-20230606162744702"></p>
-<h1 id="二-侧边栏"><a href="#二-侧边栏" class="headerlink" title="二.侧边栏"></a>二.侧边栏</h1><p>侧边栏有文章目录和工具栏</p>
-<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606162058188.png" alt="image-20230606162058188"></p>
-<h1 id="三-工具栏"><a href="#三-工具栏" class="headerlink" title="三.工具栏"></a>三.工具栏</h1><h2 id="1-在线聊天工具"><a href="#1-在线聊天工具" class="headerlink" title="1.在线聊天工具"></a>1.在线聊天工具</h2><p>方便直接与您聊天</p>
-<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606162237264.png" alt="image-20230606162237264"></p>
-<h2 id="2-简繁切换"><a href="#2-简繁切换" class="headerlink" title="2.简繁切换"></a>2.简繁切换</h2><p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606162347076.png" alt="image-20230606162347076"></p>
-<h2 id="3-阅读模式"><a href="#3-阅读模式" class="headerlink" title="3.阅读模式"></a>3.阅读模式</h2><p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606162438071.png" alt="image-20230606162438071"></p>
-<h2 id="4-深色模式"><a href="#4-深色模式" class="headerlink" title="4.深色模式"></a>4.深色模式</h2><p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606162524502.png" alt="image-20230606162524502"></p>
-]]></content>
-      <categories>
-        <category>算法竞赛</category>
-      </categories>
-  </entry>
-  <entry>
     <title>校园新闻平台</title>
     <url>/2023/06/05/%E6%A0%A1%E5%9B%AD%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E5%B9%B3%E5%8F%B0/</url>
     <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><h2 id="开发背景"><a href="#开发背景" class="headerlink" title="开发背景"></a>开发背景</h2><p>校园新闻平台是以新闻宣传机构的在线信息发布需求为基础，随着数字化和信息化的快速发展，校园新闻在校园内的传播和沟通中变得越来越重要。学校需要一个有效的管理系统来整合、发布和传播校园新闻，以满足师生、校友和其他利益相关者的信息需求。借助互联网技术开发的信息化平台。在这一平台之上，不仅可以看到与常规纸质报纸相同的信息，还有助于实现新闻信息的规范化管理，为读者和采编人员查询和阅读带来便利。从目前看，通过网络获取新闻信息的人群远远大于纸质媒介用户，而且两者之间的差距还在进一步扩大。<br>在学校网站上，校园新闻平台是最为重要的组成部分，其主要作用有两个:一.是动态发布校内新闻或者重大项目公示;二是向社会传递学校的办学思路、教学成果、科研进展等，使学校获得更高的知名度和社会认可度。因此，研究网络环境下的电子新闻媒体，开发校园新闻平台完备校园网的重要工作之一。首先对校园新闻平台工作的实际需求进行了分析，特别是对其业务需求做了详尽的分析;而后，对校园新闻平台做了总体设计，从系统结构、总体框架、数据库等方面进行了详细阐述。在数据库设计上，阐述了该系统的概念结构设计、逻辑结构设计，描述了主要库表。从功能需求结构来看，校园新闻平台主要包括新闻浏览，论坛讨论和新闻管理三大功能模块。总之，开发一个校园新闻管理系统可以满足学校信息传播的需求，提高信息发布效率，增强用户参与度和体验，促进校园文化交流，并提供数据支持进行进一步的分析和优化。这样的系统将为学校带来更好的信息管理和校园文化建设。</p>
@@ -747,6 +722,31 @@
         <tag>MyBatis-Puls</tag>
         <tag>SpringBoot</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>本站特色功能一览</title>
+    <url>/2023/05/28/%E6%9C%AC%E7%AB%99%E7%89%B9%E8%89%B2%E5%8A%9F%E8%83%BD/</url>
+    <content><![CDATA[<hr>
+<h1 id="一-导航栏"><a href="#一-导航栏" class="headerlink" title="一.导航栏"></a>一.导航栏</h1><h2 id="1-搜索功能"><a href="#1-搜索功能" class="headerlink" title="1.搜索功能"></a>1.搜索功能</h2><p>可以通过搜索框进行全站搜索，如文章，图片，关键字。。。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606161452743.png" alt="image-20230606161452743"></p>
+<h2 id="2-分类查询"><a href="#2-分类查询" class="headerlink" title="2.分类查询"></a>2.分类查询</h2><p>按照标签，时间，分类查询</p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606161905413.png" alt="image-20230606161905413"></p>
+<h2 id="3-照片墙"><a href="#3-照片墙" class="headerlink" title="3.照片墙"></a>3.照片墙</h2><p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606161619500.png" alt="image-20230606161619500"></p>
+<h2 id="4-留言板"><a href="#4-留言板" class="headerlink" title="4.留言板"></a>4.留言板</h2><p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606161702524.png" alt="image-20230606161702524"></p>
+<h2 id="5-评论区"><a href="#5-评论区" class="headerlink" title="5.评论区"></a>5.评论区</h2><p>需要登录才可以评论</p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606161726164.png" alt="image-20230606161726164"></p>
+<h2 id="6-说说——记录日常生活"><a href="#6-说说——记录日常生活" class="headerlink" title="6.说说——记录日常生活"></a>6.说说——记录日常生活</h2><p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606162744702.png" alt="image-20230606162744702"></p>
+<h1 id="二-侧边栏"><a href="#二-侧边栏" class="headerlink" title="二.侧边栏"></a>二.侧边栏</h1><p>侧边栏有文章目录和工具栏</p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606162058188.png" alt="image-20230606162058188"></p>
+<h1 id="三-工具栏"><a href="#三-工具栏" class="headerlink" title="三.工具栏"></a>三.工具栏</h1><h2 id="1-在线聊天工具"><a href="#1-在线聊天工具" class="headerlink" title="1.在线聊天工具"></a>1.在线聊天工具</h2><p>方便直接与您聊天</p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606162237264.png" alt="image-20230606162237264"></p>
+<h2 id="2-简繁切换"><a href="#2-简繁切换" class="headerlink" title="2.简繁切换"></a>2.简繁切换</h2><p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606162347076.png" alt="image-20230606162347076"></p>
+<h2 id="3-阅读模式"><a href="#3-阅读模式" class="headerlink" title="3.阅读模式"></a>3.阅读模式</h2><p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606162438071.png" alt="image-20230606162438071"></p>
+<h2 id="4-深色模式"><a href="#4-深色模式" class="headerlink" title="4.深色模式"></a>4.深色模式</h2><p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606162524502.png" alt="image-20230606162524502"></p>
+]]></content>
+      <categories>
+        <category>算法竞赛</category>
+      </categories>
   </entry>
   <entry>
     <title>社区医疗管理系统</title>
