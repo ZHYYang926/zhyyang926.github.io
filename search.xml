@@ -120,6 +120,38 @@
       </tags>
   </entry>
   <entry>
+    <title>PicGo+GitHub搭建一个个人图床</title>
+    <url>/2023/05/31/%E5%9B%BE%E5%BA%8A/</url>
+    <content><![CDATA[<h1 id="PicGo-GitHub搭建一个个人图床"><a href="#PicGo-GitHub搭建一个个人图床" class="headerlink" title="PicGo+GitHub搭建一个个人图床"></a>PicGo+GitHub搭建一个个人图床</h1><p>1.打开链接：<a href="https://github.com/Molunerfinn/PicGo/releases/tag/v2.3.1">Release 2.3.1 · Molunerfinn&#x2F;PicGo (github.com)</a>下载正式版,下载安装后打开工具。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230525190535100.png" alt="image-20230525190535100"></p>
+<p>2.在github上获取tooken，账号自行注册<a href="https://github.com/">GitHub</a></p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230525191056814.png" alt="image-20230525191056814"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230525191134178.png" alt="image-20230525191134178"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230525191200980.png" alt="image-20230525191200980"></p>
+<p>3.复制好token，在PicGo中进行图床设置，选择GitHub进行GitHub设置，选择自己创建的仓库名，分支名，粘贴token存储路径随便填推荐img&#x2F;,自定义域名推荐前面填写”<a href="https://cdn.jsdelivr.net/gh/%22+%22%E4%BB%93%E5%BA%93%E5%90%8D">https://cdn.jsdelivr.net/gh/&quot;+&quot;仓库名</a>“</p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230525191707935.png" alt="image-20230525191707935"></p>
+<p>4.设置完成后再进行上传图片后可以在远程仓库中发现自己刚才上传的图片。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230525192011654.png" alt="image-20230525192011654"></p>
+<p><strong>这样个人图床就搭建好了</strong></p>
+<hr>
+<h1 id="设置Typora"><a href="#设置Typora" class="headerlink" title="设置Typora"></a>设置Typora</h1><p>1.打开Typora，点击文件选择偏好设置</p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230525192141061.png" alt="image-20230525192141061"></p>
+<p>2.选择图像，上传服务选择PicGo,路径选择我们安装的路径，默认路径是：C:\Users\user\AppData\Local\Programs\PicGo\picgo.exe</p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230525192213773.png"></p>
+<p>3.选择好以后点击验证图片上传选项,我们上传一个图片之后picgo会返回我们一个链接，或者先把图片粘贴过来然后点击上传，就会如下图显示。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230526222701757.png" alt="image-20230526222701757"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230526222026983.png" alt="image-20230526222026983"></p>
+<p>大功告成！！！</p>
+]]></content>
+      <categories>
+        <category>经验分享</category>
+      </categories>
+      <tags>
+        <tag>Github</tag>
+        <tag>PicGo</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>使用vercel加速自己的网站，并绑定自定义域名</title>
     <url>/2023/05/28/%E4%BD%BF%E7%94%A8vercel%E5%8A%A0%E9%80%9F%E8%87%AA%E5%B7%B1%E7%9A%84%E7%BD%91%E7%AB%99/</url>
     <content><![CDATA[<p>1.注册一个vercel账号</p>
@@ -159,36 +191,29 @@
       </tags>
   </entry>
   <entry>
-    <title>PicGo+GitHub搭建一个个人图床</title>
-    <url>/2023/05/31/%E5%9B%BE%E5%BA%8A/</url>
-    <content><![CDATA[<h1 id="PicGo-GitHub搭建一个个人图床"><a href="#PicGo-GitHub搭建一个个人图床" class="headerlink" title="PicGo+GitHub搭建一个个人图床"></a>PicGo+GitHub搭建一个个人图床</h1><p>1.打开链接：<a href="https://github.com/Molunerfinn/PicGo/releases/tag/v2.3.1">Release 2.3.1 · Molunerfinn&#x2F;PicGo (github.com)</a>下载正式版,下载安装后打开工具。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230525190535100.png" alt="image-20230525190535100"></p>
-<p>2.在github上获取tooken，账号自行注册<a href="https://github.com/">GitHub</a></p>
-<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230525191056814.png" alt="image-20230525191056814"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230525191134178.png" alt="image-20230525191134178"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230525191200980.png" alt="image-20230525191200980"></p>
-<p>3.复制好token，在PicGo中进行图床设置，选择GitHub进行GitHub设置，选择自己创建的仓库名，分支名，粘贴token存储路径随便填推荐img&#x2F;,自定义域名推荐前面填写”<a href="https://cdn.jsdelivr.net/gh/%22+%22%E4%BB%93%E5%BA%93%E5%90%8D">https://cdn.jsdelivr.net/gh/&quot;+&quot;仓库名</a>“</p>
-<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230525191707935.png" alt="image-20230525191707935"></p>
-<p>4.设置完成后再进行上传图片后可以在远程仓库中发现自己刚才上传的图片。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230525192011654.png" alt="image-20230525192011654"></p>
-<p><strong>这样个人图床就搭建好了</strong></p>
-<hr>
-<h1 id="设置Typora"><a href="#设置Typora" class="headerlink" title="设置Typora"></a>设置Typora</h1><p>1.打开Typora，点击文件选择偏好设置</p>
-<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230525192141061.png" alt="image-20230525192141061"></p>
-<p>2.选择图像，上传服务选择PicGo,路径选择我们安装的路径，默认路径是：C:\Users\user\AppData\Local\Programs\PicGo\picgo.exe</p>
-<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230525192213773.png"></p>
-<p>3.选择好以后点击验证图片上传选项,我们上传一个图片之后picgo会返回我们一个链接，或者先把图片粘贴过来然后点击上传，就会如下图显示。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230526222701757.png" alt="image-20230526222701757"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230526222026983.png" alt="image-20230526222026983"></p>
-<p>大功告成！！！</p>
+    <title>本站特色功能一览</title>
+    <url>/2023/05/28/%E6%9C%AC%E7%AB%99%E7%89%B9%E8%89%B2%E5%8A%9F%E8%83%BD/</url>
+    <content><![CDATA[<hr>
+<h1 id="一-导航栏"><a href="#一-导航栏" class="headerlink" title="一.导航栏"></a>一.导航栏</h1><h2 id="1-搜索功能"><a href="#1-搜索功能" class="headerlink" title="1.搜索功能"></a>1.搜索功能</h2><p>可以通过搜索框进行全站搜索，如文章，图片，关键字。。。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606161452743.png" alt="image-20230606161452743"></p>
+<h2 id="2-分类查询"><a href="#2-分类查询" class="headerlink" title="2.分类查询"></a>2.分类查询</h2><p>按照标签，时间，分类查询</p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606161905413.png" alt="image-20230606161905413"></p>
+<h2 id="3-照片墙"><a href="#3-照片墙" class="headerlink" title="3.照片墙"></a>3.照片墙</h2><p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606161619500.png" alt="image-20230606161619500"></p>
+<h2 id="4-留言板"><a href="#4-留言板" class="headerlink" title="4.留言板"></a>4.留言板</h2><p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606161702524.png" alt="image-20230606161702524"></p>
+<h2 id="5-评论区"><a href="#5-评论区" class="headerlink" title="5.评论区"></a>5.评论区</h2><p>需要登录才可以评论</p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606161726164.png" alt="image-20230606161726164"></p>
+<h2 id="6-说说——记录日常生活"><a href="#6-说说——记录日常生活" class="headerlink" title="6.说说——记录日常生活"></a>6.说说——记录日常生活</h2><p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606162744702.png" alt="image-20230606162744702"></p>
+<h1 id="二-侧边栏"><a href="#二-侧边栏" class="headerlink" title="二.侧边栏"></a>二.侧边栏</h1><p>侧边栏有文章目录和工具栏</p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606162058188.png" alt="image-20230606162058188"></p>
+<h1 id="三-工具栏"><a href="#三-工具栏" class="headerlink" title="三.工具栏"></a>三.工具栏</h1><h2 id="1-在线聊天工具"><a href="#1-在线聊天工具" class="headerlink" title="1.在线聊天工具"></a>1.在线聊天工具</h2><p>方便直接与您聊天</p>
+<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606162237264.png" alt="image-20230606162237264"></p>
+<h2 id="2-简繁切换"><a href="#2-简繁切换" class="headerlink" title="2.简繁切换"></a>2.简繁切换</h2><p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606162347076.png" alt="image-20230606162347076"></p>
+<h2 id="3-阅读模式"><a href="#3-阅读模式" class="headerlink" title="3.阅读模式"></a>3.阅读模式</h2><p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606162438071.png" alt="image-20230606162438071"></p>
+<h2 id="4-深色模式"><a href="#4-深色模式" class="headerlink" title="4.深色模式"></a>4.深色模式</h2><p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606162524502.png" alt="image-20230606162524502"></p>
 ]]></content>
       <categories>
-        <category>经验分享</category>
+        <category>算法竞赛</category>
       </categories>
-      <tags>
-        <tag>Github</tag>
-        <tag>PicGo</tag>
-      </tags>
   </entry>
   <entry>
     <title>校园新闻平台</title>
@@ -722,31 +747,6 @@
         <tag>MyBatis-Puls</tag>
         <tag>SpringBoot</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>本站特色功能一览</title>
-    <url>/2023/05/28/%E6%9C%AC%E7%AB%99%E7%89%B9%E8%89%B2%E5%8A%9F%E8%83%BD/</url>
-    <content><![CDATA[<hr>
-<h1 id="一-导航栏"><a href="#一-导航栏" class="headerlink" title="一.导航栏"></a>一.导航栏</h1><h2 id="1-搜索功能"><a href="#1-搜索功能" class="headerlink" title="1.搜索功能"></a>1.搜索功能</h2><p>可以通过搜索框进行全站搜索，如文章，图片，关键字。。。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606161452743.png" alt="image-20230606161452743"></p>
-<h2 id="2-分类查询"><a href="#2-分类查询" class="headerlink" title="2.分类查询"></a>2.分类查询</h2><p>按照标签，时间，分类查询</p>
-<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606161905413.png" alt="image-20230606161905413"></p>
-<h2 id="3-照片墙"><a href="#3-照片墙" class="headerlink" title="3.照片墙"></a>3.照片墙</h2><p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606161619500.png" alt="image-20230606161619500"></p>
-<h2 id="4-留言板"><a href="#4-留言板" class="headerlink" title="4.留言板"></a>4.留言板</h2><p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606161702524.png" alt="image-20230606161702524"></p>
-<h2 id="5-评论区"><a href="#5-评论区" class="headerlink" title="5.评论区"></a>5.评论区</h2><p>需要登录才可以评论</p>
-<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606161726164.png" alt="image-20230606161726164"></p>
-<h2 id="6-说说——记录日常生活"><a href="#6-说说——记录日常生活" class="headerlink" title="6.说说——记录日常生活"></a>6.说说——记录日常生活</h2><p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606162744702.png" alt="image-20230606162744702"></p>
-<h1 id="二-侧边栏"><a href="#二-侧边栏" class="headerlink" title="二.侧边栏"></a>二.侧边栏</h1><p>侧边栏有文章目录和工具栏</p>
-<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606162058188.png" alt="image-20230606162058188"></p>
-<h1 id="三-工具栏"><a href="#三-工具栏" class="headerlink" title="三.工具栏"></a>三.工具栏</h1><h2 id="1-在线聊天工具"><a href="#1-在线聊天工具" class="headerlink" title="1.在线聊天工具"></a>1.在线聊天工具</h2><p>方便直接与您聊天</p>
-<p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606162237264.png" alt="image-20230606162237264"></p>
-<h2 id="2-简繁切换"><a href="#2-简繁切换" class="headerlink" title="2.简繁切换"></a>2.简繁切换</h2><p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606162347076.png" alt="image-20230606162347076"></p>
-<h2 id="3-阅读模式"><a href="#3-阅读模式" class="headerlink" title="3.阅读模式"></a>3.阅读模式</h2><p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606162438071.png" alt="image-20230606162438071"></p>
-<h2 id="4-深色模式"><a href="#4-深色模式" class="headerlink" title="4.深色模式"></a>4.深色模式</h2><p><img src="https://cdn.jsdelivr.net/gh/zhyyang926/picgo/img/image-20230606162524502.png" alt="image-20230606162524502"></p>
-]]></content>
-      <categories>
-        <category>算法竞赛</category>
-      </categories>
   </entry>
   <entry>
     <title>社区医疗管理系统</title>
