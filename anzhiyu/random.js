@@ -1,1 +1,1 @@
-var posts=["2023/05/31/hello-world/","2023/05/26/使用hexo搭建个人博客/","2023/05/31/图床/","2023/05/28/使用vercel加速自己的网站/","2023/05/28/本站特色功能/","2023/06/05/校园新闻发布平台/","2023/05/25/代码演示/hello-world/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
+var posts=["2023/05/31/hello-world/","2023/05/28/使用vercel加速自己的网站/","2023/05/26/使用hexo搭建个人博客/","2023/05/31/图床/","2023/05/28/本站特色功能/","2023/06/05/校园新闻发布平台/","2023/05/25/代码演示/hello-world/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
